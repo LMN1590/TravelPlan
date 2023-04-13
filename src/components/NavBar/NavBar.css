@@ -1,0 +1,23 @@
+.navbar{
+    height: 100%;
+}
+.logo{
+    height:75px;
+}
+.name{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.nav-link{
+    text-align: center;
+}
+.btn{
+    width:100px;
+}
+.register:hover{
+    background-color:unset;
+    color: blue;
+}
+.offcanvas{
+    --bs-offcanvas-width: 200px !important;
+}
