@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "header":"Italy",
+        "description": "A country that is renowned for its rich history, stunning architecture, and delicious cuisine. Italy is home to many famous landmarks, including the Colosseum, the Leaning Tower of Pisa, and the Vatican City.",
+        "link":"/Country/italy.jpg"
+    },
+    {
+        "id":1,
+        "header":"Japan",
+        "description": "A unique and fascinating destination that seamlessly blends ancient traditions with modern technology. Visitors can enjoy exploring bustling cities like Tokyo, soaking in hot springs in mountainous regions, or taking in the beauty of cherry blossom season.",
+        "link":"/Country/japan.jpg"
+    },
+    {
+        "id":2,
+        "header":"Australia",
+        "description": "A vast and diverse country with a range of landscapes, from tropical rainforests to deserts and beaches. Visitors can experience the natural beauty of the Great Barrier Reef, hike through national parks, or explore cosmopolitan cities like Sydney and Melbourne.",
+        "link":"/Country/australia.jpg"
+    },
+    {
+        "id":3,
+        "header":"France",
+        "description": "A destination that embodies style, romance, and sophistication. Visitors can take in iconic landmarks like the Eiffel Tower, explore charming villages in the countryside, or indulge in gourmet cuisine and world-renowned wine.",
+        "link":"/Country/france.jpg"
+    },
+    {
+        "id":4,
+        "header":"Thailand",
+        "description": "A country that is known for its vibrant culture, stunning temples, and delicious street food. Visitors can explore bustling cities like Bangkok, relax on beautiful beaches in Phuket, or immerse themselves in the history and spirituality of the ancient city of Chiang Mai.",
+        "link":"/Country/thailand.jpg"
+    },
+    {
+        "id":5,
+        "header":"Germany",
+        "description": "Germany offers a diverse range of attractions, from bustling cities to picturesque countryside. Visitors can explore historic landmarks, indulge in the country's famous food and beer, and experience unique traditions like Christmas markets.",
+        "link":"/Country/germany.jpg"
+    }
+]

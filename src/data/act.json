@@ -1,0 +1,38 @@
+[
+    {
+        "id":0,
+        "header":"Skydiving",
+        "description": "Experience the ultimate thrill of jumping from an aircraft and freefalling at high speed with skydiving. Embrace the adrenaline rush as you soar through the skies!",
+        "link":"/Act/skydiving.png"
+    },
+    {
+        "id":1,
+        "header":"Diving",
+        "description": "Explore the depths of the ocean and discover a new world with diving. Swim among colorful marine life and coral reefs for an unforgettable adventure. Book your diving experience today!",
+        "link":"/Act/diving.jpg"
+    },
+    {
+        "id":2,
+        "header":"Skiing",
+        "description": "Hit the slopes and feel the rush of skiing down powdery mountainsides. Whether you're a beginner or a pro, skiing offers a thrilling and exciting experience for all. Book your ski trip now and make unforgettable memories!",
+        "link":"/Act/skiing.jpg"
+    },
+    {
+        "id":3,
+        "header":"Hiking",
+        "description": "Experience the beauty of nature and challenge yourself with hiking. Book your adventure today!",
+        "link":"/Act/hiking.jpg"
+    },
+    {
+        "id":4,
+        "header":"Yoga",
+        "description": "Find your inner peace and improve your physical and mental well-being with yoga. Connect with your body and mind for a rejuvenating and relaxing experience.",
+        "link":"/Act/yoga.jpg"
+    },
+    {
+        "id":5,
+        "header":"Dining",
+        "description": "Treat your taste buds to an unforgettable culinary experience with dining. Indulge in delectable dishes and savor exotic flavors from around the world.",
+        "link":"/Act/dining.jpeg"
+    }
+]

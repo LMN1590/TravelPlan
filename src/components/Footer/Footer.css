@@ -1,0 +1,22 @@
+footer{
+    background-color: lightgrey;
+    padding:20px;
+    display:flex;
+    justify-content: space-around;
+}
+.app h3,img,p{
+    margin-bottom:10px;
+}
+.app{
+    width:60%;
+    text-align: center;
+    font-size: large;
+}
+.me{
+    width:20%;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    font-size: large;
+    text-align: center;
+}

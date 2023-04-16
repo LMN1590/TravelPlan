@@ -1,5 +1,7 @@
 import React from "react";
 
+import Button from 'react-bootstrap/Button';
+
 import './Picture.css'
 
 export default function Picture({linkin}){
@@ -7,10 +9,20 @@ export default function Picture({linkin}){
         backgroundImage: `url('${linkin}')`,
         backgroundColor: 'black'
     };
-    console.log(style);
     const pic=(
         <div className="picture" style={style}>
-            The thousand step journy start from somewhere or something i dunno!
+            <div className="text-container">
+                <div className="left-text">
+                    <i>"The thousand step journy start from somewhere or something i dunno!"</i>
+                </div>
+                <div className="right-btn">
+                    <h2>Join now</h2>
+                    <Button href="/src/html/search.html" variant="primary" className="sign-in btn">
+                        Search
+                    </Button>
+                </div>
+            </div>
+            
         </div>
     )
 

@@ -12,12 +12,12 @@ export default function NavBar() {
     const expand="lg";
     return (
         <>
-            <Navbar key={expand} bg="light" expand={expand} className="mb-3">
+            <Navbar key={expand} bg="light" expand={expand} >
                 <Container fluid>
-                    <Navbar.Brand href="#">
+                    <Navbar.Brand href="/index.html">
                         <img src="/logo.png" alt="Logo" className="logo"/>
                     </Navbar.Brand>
-                    <Navbar.Brand href="#" className="name">Navbar Offcanvas</Navbar.Brand>
+                    <Navbar.Brand href="#" className="name">The Travel Plan</Navbar.Brand>
                     <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                     <Navbar.Offcanvas
                         id={`offcanvasNavbar-expand-${expand}`}
