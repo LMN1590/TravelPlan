@@ -1,0 +1,76 @@
+[
+    {
+        "place_id": 0,
+        "formatted_address": "Seybothstraße 2, 93053 Regensburg",
+        "name": "Ostbayerische Technische Hochschule Regensburg (OTH Regensburg)",
+        "photos": "/Place/oth.jpg",
+        "plus_code": "233W+49 Regensburg",
+        "type": "University",
+        "formatted_phone_number": "094194302",
+        "website": "http://www.oth-regensburg.de/",
+        "rating": 4.4,
+        "user_ratings_total": 141
+    },
+    {
+        "place_id": 1,
+        "formatted_address": "Friedenstraße 23, 93053 Regensburg",
+        "name": "Regensburg Arcaden",
+        "photos": "/Place/arcaden.jpg",
+        "plus_code": "236X+8M Regensburg",
+        "type": "Shopping mall",
+        "formatted_phone_number": "09414611610",
+        "website": "https://www.regensburg-arcaden.de/",
+        "rating": 4.3,
+        "user_ratings_total": 10760
+
+    },
+    {
+        "place_id": 2,
+        "formatted_address": "Steinerne Brücke, 93059 Regensburg",
+        "name": "Old Stone Bridge",
+        "photos": "/Place/old-stone-bridge.jpg",
+        "plus_code": "23FW+3W Regensburg",
+        "type": "Bridge",
+        "formatted_phone_number": "09415074410",
+        "website": "https://tourismus.regensburg.de/regensburg-erleben/sehenswertes/alle-sehenswuerdigkeiten/baudenkmaeler/steinerne-bruecke.html",
+        "rating": 4.6,
+        "user_ratings_total": 10113
+    },
+    {
+        "place_id": 3,
+        "formatted_address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+        "name": "Eiffel Tower",
+        "photos": "/Place/eiffel-tower.jpg",
+        "plus_code": "V75V+8Q Paris, France",
+        "type": "Historical landmark",
+        "formatted_phone_number": null,
+        "website": "https://www.toureiffel.paris/",
+        "rating": 4.6,
+        "user_ratings_total": 339571
+    },
+    {
+        "place_id": 4,
+        "formatted_address": "100 London Rd, London SE23 3PQ, United Kingdom",
+        "name": "Horniman Museum and Gardens",
+        "photos": "/Place/horniman.jpg",
+        "plus_code": "CWRQ+CF London, United Kingdom",
+        "type": "Museum",
+        "formatted_phone_number": "+442086991872",
+        "website": "https://www.horniman.ac.uk/",
+        "rating": 4.6,
+        "user_ratings_total": 7347
+
+    },
+    {
+        "place_id": 5,
+        "formatted_address": "130 S Bryn Mawr Ave, Bryn Mawr, PA 19010, United States",
+        "name": "Bryn Mawr Hospital",
+        "photos": "/Place/bryn-mawr-hosp.jpg",
+        "plus_code": "2M9H+JC Bryn Mawr, Pennsylvania, USA",
+        "type": "Hospital",
+        "formatted_phone_number": "+14843373000",
+        "website": "https://www.mainlinehealth.org/locations/bryn-mawr-hospital",
+        "rating": 3.3,
+        "user_ratings_total": 261
+    }
+]

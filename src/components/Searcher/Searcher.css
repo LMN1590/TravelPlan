@@ -1,5 +1,5 @@
 .searcher{
-    width:30%;
+    width:40%;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 -1px 0px rgba(0,0,0,0.02);
     height: calc(100vh - 101px);
 }
@@ -23,7 +23,7 @@
     overflow-y: auto;
     display:flex;
     align-items: center;
-    padding:10px;
+    padding:5px;
 }
 .res-cards{
     flex-basis:100%;
@@ -31,7 +31,10 @@
     overflow-y: auto;
 }
 .res-card{
-    height: 100px;
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+    height: 175px;
 }
 .res-card:hover{
     background-color: lightgray;
@@ -48,4 +51,25 @@
 }
 .res-cards::-webkit-scrollbar-track{
     background-color: var(--scroll-track);
+}
+
+.img{
+    height:100%;
+    width:30%;
+    background-position: center;
+    background-size: cover;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+}
+.details{
+    width:65%;
+}
+.details .nameType{
+    display: flex;
+    justify-content: space-between;
+}
+.details .rating{
+    display:flex;
+    justify-content: flex-end;
 }
