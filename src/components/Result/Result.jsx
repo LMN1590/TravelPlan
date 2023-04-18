@@ -50,7 +50,7 @@ export default function Result({ ele, setEl }) {
                 </div>
 
             </div>
-            <div className="specs" style={{ display: !ele ? 'none' : 'block' }}>
+            {ele && <div className="specs" style={{ display: !ele ? 'none' : 'block' }}>
                 <div className="header-img" style={style}>
 
                 </div>
@@ -72,6 +72,9 @@ export default function Result({ ele, setEl }) {
                     </div>
                     <div className="loc-web">
                         <p><span className="loc-header">WEBSITE</span>: {ele.website}</p>
+                    </div>
+                    <div className="loc-desc">
+                        <p><span className="loc-header">DESCRIPTION</span>: {ele.desc}</p>
                     </div>
                     <div className="loc-rating">
                         <div className="loc-score">
@@ -110,7 +113,7 @@ export default function Result({ ele, setEl }) {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>}
         </div>
     )
 }

@@ -9,7 +9,8 @@
         "formatted_phone_number": "094194302",
         "website": "http://www.oth-regensburg.de/",
         "rating": 4.4,
-        "user_ratings_total": 141
+        "user_ratings_total": 141,
+        "desc":"OTH Regensburg is a German university of applied sciences, offering a variety of degree programs in engineering, business, and social sciences. Located in the city of Regensburg, the university has a strong focus on practical education and research, preparing students for successful careers in their fields."
     },
     {
         "place_id": 1,
@@ -21,8 +22,8 @@
         "formatted_phone_number": "09414611610",
         "website": "https://www.regensburg-arcaden.de/",
         "rating": 4.3,
-        "user_ratings_total": 10760
-
+        "user_ratings_total": 10760,
+        "desc":"Regensburg Arcaden is a shopping center located in the city of Regensburg, Germany. With over 120 shops, restaurants, and services, Regensburg Arcaden offers a diverse range of shopping and leisure options for visitors of all ages. The center also features ample parking and convenient access to public transportation."
     },
     {
         "place_id": 2,
@@ -34,7 +35,8 @@
         "formatted_phone_number": "09415074410",
         "website": "https://tourismus.regensburg.de/regensburg-erleben/sehenswertes/alle-sehenswuerdigkeiten/baudenkmaeler/steinerne-bruecke.html",
         "rating": 4.6,
-        "user_ratings_total": 10113
+        "user_ratings_total": 10113,
+        "desc":"The Old Stone Bridge is a medieval bridge in Regensburg, Germany, spanning the Danube River. Built in the 12th century, it is an iconic symbol of the city's cultural heritage and offers stunning views to visitors."
     },
     {
         "place_id": 3,
@@ -46,7 +48,8 @@
         "formatted_phone_number": null,
         "website": "https://www.toureiffel.paris/",
         "rating": 4.6,
-        "user_ratings_total": 339571
+        "user_ratings_total": 339571,
+        "desc":"The Eiffel Tower is an iconic landmark located in Paris, France. Built in 1889, it is a global symbol of engineering and architectural achievement, and is one of the world's most visited tourist attractions. "
     },
     {
         "place_id": 4,
@@ -58,7 +61,8 @@
         "formatted_phone_number": "+442086991872",
         "website": "https://www.horniman.ac.uk/",
         "rating": 4.6,
-        "user_ratings_total": 7347
+        "user_ratings_total": 7347,
+        "desc":"The Horniman Museum and Gardens is a museum of anthropology and natural history located in Forest Hill, London. With a vast collection of over 350,000 objects, the museum offers visitors an immersive and interactive learning experience."
 
     },
     {
@@ -71,6 +75,7 @@
         "formatted_phone_number": "+14843373000",
         "website": "https://www.mainlinehealth.org/locations/bryn-mawr-hospital",
         "rating": 3.3,
-        "user_ratings_total": 261
+        "user_ratings_total": 261,
+        "desc":"Bryn Mawr Hospital is a healthcare facility located in Bryn Mawr, Pennsylvania, USA. Founded in 1893, it is a leading hospital in the region, providing a wide range of medical services and treatments."
     }
 ]
