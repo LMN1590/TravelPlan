@@ -7,13 +7,13 @@ import Result from "../../components/Result/Result";
 import './App.css';
 
 export default function App() {
-    const [id,setID]=React.useState(null);
+    const [ele,setEl]=React.useState(null);
     return (
         <main className="content">
             <NavBar />
             <div className="main-body">
-                <Searcher id={id} setID={setID}/>
-                <Result id={id} setID={setID}/>
+                <Searcher ele={ele} setEl={setEl}/>
+                <Result ele={ele} setEl={setEl}/>
             </div>
         </main>
     );

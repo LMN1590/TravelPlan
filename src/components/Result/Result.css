@@ -1,3 +1,86 @@
 .result{
     width:70%;
+    height: calc(100vh - 101px);
+}
+.result-quote{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.result-el{
+    display:block;
+}
+.quote{
+    width:75%;
+}
+.quoteText-wrapper{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:30px;
+    font-weight: 700;
+}
+.quoteAuthor-wrapper{
+    display:flex;
+    justify-content: flex-end;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    font-weight: 500;
+}
+.specs{
+    height:100%;
+    overflow-y:auto;
+}
+.header-img{
+    height:400px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center
+}
+.loc-details{
+    height:calc(100vh - 101px - 400px);
+    width: 80%;
+    margin:auto;
+    margin-top:20px;
+}
+.specs::-webkit-scrollbar{
+    width:5px;
+}
+.specs::-webkit-scrollbar-thumb,
+.specs::-webkit-scrollbar-track{
+    border-radius: var(--scroll-radius);
+}
+.specs::-webkit-scrollbar-thumb{
+    background-color: var(--scroll-thumb);
+}
+.specs::-webkit-scrollbar-track{
+    background-color: var(--scroll-track);
+}
+.loc-details div{
+    font-family: 'Courier New', Courier, monospace;
+}
+.loc-name{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.loc-details:not(:first-child){
+    font-size: large;
+}
+.loc-header{
+    font-weight: 600;
+    text-decoration: underline;
+}
+.loc-rating{
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.loc-score{
+    display:flex;
+    justify-content: space-between;
+    padding:5px;
+    border-bottom:1px solid black;
+}
+.loc-single-review{
+    padding:10px;
+    border-bottom: 1px solid black;
 }

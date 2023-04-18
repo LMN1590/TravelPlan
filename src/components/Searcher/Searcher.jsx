@@ -8,13 +8,16 @@ import places from '../../data/place.json'
 
 import './Searcher.css';
 
-export default function Searcher() {
+export default function Searcher({ele,setEl}) {
     const placesCard = places.map(el => {
         let style = {
             backgroundImage: `url('${el.photos}')`,
         }
+        let none={
+            display: 'none'
+        }
         return (
-            <div className="res-card" key={el.place_id}>
+            <div className="res-card" key={el.place_id} onClick={()=>{setEl(el)}}>
                 <div className="img" style={style} onClick={() => window.open(el.website)}>
                 </div>
                 <div className="details">
@@ -22,18 +25,29 @@ export default function Searcher() {
                         <div className="name">
                             {el.name}
                         </div>
-                        <div className="type">
+                        <div className="type" style={el.type?{}:none}>
                             {el.type}
                         </div>
                     </div>
-                    <div className="addrCode">
-                        {el.formatted_address ? el.formatted_address : el.plus_code}
+                    <div className="addrCode withIcon">
+                        <div className="icon">
+                            <i className="fa-solid fa-map"></i>
+                        </div>
+                        <div className="addr">
+                            {el.formatted_address ? el.formatted_address : el.plus_code}
+                        </div>
                     </div>
-                    <div className="phone">
-                        {el.formatted_phone_number}
+                    <div className="phone withIcon" style={el.formatted_phone_number?{}:none}>
+                        <div className="icon">
+                            <i className="fa-solid fa-phone"></i>
+                        </div>
+                        <div className="phoneNum">
+                            {el.formatted_phone_number}
+                        </div>
                     </div>
                     <div className="rating">
-                        {el.rating} {el.user_ratings_total}
+                        <i className="fa-regular fa-star star" ></i> 
+                        <p> {el.rating} ({el.user_ratings_total})</p>
                     </div>
                 </div>
             </div>

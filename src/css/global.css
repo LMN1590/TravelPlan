@@ -1,5 +1,5 @@
 :root{
-    --scroll-thumb:lightblue;
-    --scroll-track:rgb(136, 136, 136);
+    --scroll-thumb:rgb(117, 117, 117);
+    --scroll-track:rgb(201, 201, 201);
     --scroll-radius:92px;
 }
