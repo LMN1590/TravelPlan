@@ -17,7 +17,7 @@ export default function Picture({linkin}){
                 </div>
                 <div className="right-btn">
                     <h2>Join now</h2>
-                    <Button href="/src/html/search.html" variant="primary" className="sign-in btn">
+                    <Button href="/search" variant="primary" className="sign-in btn">
                         Search
                     </Button>
                 </div>

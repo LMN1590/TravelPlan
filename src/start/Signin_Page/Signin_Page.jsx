@@ -1,15 +1,13 @@
 import React from "react";
 
-import NavBar from "../../components/NavBar/NavBar";
 import Signin from "../../components/Signin/Signin"
 import Quote from "../../components/Quote/Quote";
 
-import './App.css';
+import './Signin_Page.css';
 
-export default function App(){
+export default function Signin_Page(){
     return(
         <main className="content">
-            <NavBar inSignin={true}/>
             <div className="main-body">
                 <Signin/>
                 <Quote/>

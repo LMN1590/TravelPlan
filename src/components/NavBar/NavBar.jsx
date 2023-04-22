@@ -14,7 +14,7 @@ export default function NavBar({inRegister,inSignin}) {
         <>
             <Navbar key={expand} bg="light" expand={expand} >
                 <Container fluid>
-                    <Navbar.Brand href="/index.html">
+                    <Navbar.Brand href="/">
                         <img src="/logo.png" alt="Logo" className="logo"/>
                     </Navbar.Brand>
                     <Navbar.Brand href="#" className="name">The Travel Plan</Navbar.Brand>
@@ -31,12 +31,12 @@ export default function NavBar({inRegister,inSignin}) {
                         </Offcanvas.Header>
                         <Offcanvas.Body>
                             <Nav className="justify-content-end flex-grow-1 pe-3">
-                                <Nav.Link href="/src/html/register.html" disabled={inRegister}>
+                                <Nav.Link href="/register" disabled={inRegister}>
                                     <Button disabled={inRegister}  variant="outline-primary" className="register btn">
                                         Register
                                     </Button>
                                 </Nav.Link>
-                                <Nav.Link href="/src/html/signin.html" disabled={inSignin}>
+                                <Nav.Link href="/signin" disabled={inSignin}>
                                     <Button disabled={inSignin} variant="primary" className="sign-in btn">
                                         Sign-In
                                     </Button>

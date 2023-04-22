@@ -3,3 +3,9 @@
     --scroll-track:rgb(201, 201, 201);
     --scroll-radius:92px;
 }
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
