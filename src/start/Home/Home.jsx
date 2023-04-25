@@ -1,16 +1,27 @@
 import React from "react";
 
+import $ from 'jquery'
+
 import Menu from "../../components/Menu/Menu";
 import Picture from "../../components/Picture/Picture";
 import Ranking from "../../components/Ranking/Ranking";
 import Footer from "../../components/Footer/Footer";
 
+
+
 export default function Home() {
-    const end=3;
-    const index=Math.floor(Math.random()*end)+1;
     const [link,setLink]=React.useState('');
+    function setLinkWrapper(){
+        $.ajax({
+            method: 'GET',
+            url: 'https://nc9d2gsl4a.execute-api.eu-central-1.amazonaws.com/prod/getpic',
+            success: function (data, status) {
+                setLink(data.url.S);
+            },
+        })
+    }
     React.useEffect(()=>{
-        setLink(`/RandPic/travel${index}.jpg`);
+        setLinkWrapper();
     },[])
 
     const countryRank='countries';

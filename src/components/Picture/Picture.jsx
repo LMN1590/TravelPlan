@@ -13,7 +13,7 @@ export default function Picture({linkin}){
         <div className="picture" style={style}>
             <div className="text-container">
                 <div className="left-text">
-                    <i>"The thousand step journy start from somewhere or something i dunno!"</i>
+                    <i>"A journey of a thousand miles begins with a single step"</i>
                 </div>
                 <div className="right-btn">
                     <h2>Join now</h2>
