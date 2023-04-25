@@ -17,7 +17,7 @@ export default function NavBar({inRegister,inSignin}) {
                     <Navbar.Brand href="/">
                         <img src="/logo.png" alt="Logo" className="logo"/>
                     </Navbar.Brand>
-                    <Navbar.Brand href="#" className="name">The Travel Plan</Navbar.Brand>
+                    <Navbar.Brand href="/" className="name">The Travel Plan</Navbar.Brand>
                     <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
                     <Navbar.Offcanvas
                         id={`offcanvasNavbar-expand-${expand}`}
