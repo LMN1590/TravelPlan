@@ -2,6 +2,7 @@
     --scroll-thumb:rgb(117, 117, 117);
     --scroll-track:rgb(201, 201, 201);
     --scroll-radius:92px;
+    --no-nav-height:calc(100vh - 111px);
 }
 *{
     box-sizing: border-box;

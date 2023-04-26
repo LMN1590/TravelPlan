@@ -9,6 +9,7 @@ import Offcanvas from 'react-bootstrap/Offcanvas';
 import './NavBar.css'
 
 export default function NavBar({inRegister,inSignin}) {
+    //const {inRegister,inSignin}=navState;
     const expand="lg";
     return (
         <>
@@ -32,12 +33,12 @@ export default function NavBar({inRegister,inSignin}) {
                         <Offcanvas.Body>
                             <Nav className="justify-content-end flex-grow-1 pe-3">
                                 <Nav.Link href="/register" disabled={inRegister}>
-                                    <Button disabled={inRegister}  variant="outline-primary" className="register btn">
+                                    <Button disabled={inRegister}  variant="outline-primary" className="register btnNav">
                                         Register
                                     </Button>
                                 </Nav.Link>
                                 <Nav.Link href="/signin" disabled={inSignin}>
-                                    <Button disabled={inSignin} variant="primary" className="sign-in btn">
+                                    <Button disabled={inSignin} variant="primary" className="sign-in btnNav">
                                         Sign-In
                                     </Button>
                                 </Nav.Link>

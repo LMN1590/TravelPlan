@@ -1,7 +1,7 @@
 .searcher{
     width:40%;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 -1px 0px rgba(0,0,0,0.02);
-    height: calc(100vh - 101px);
+    height: var(--no-nav-height);
 }
 .searchbar{
     width:90%;

@@ -1,8 +1,8 @@
 import React from "react";
 
-import $ from 'jquery'
+import $ from 'jquery';
 
-import quote from '../../data/quote.json'
+import quote from '../../data/quote.json';
 
 import './Result.css';
 

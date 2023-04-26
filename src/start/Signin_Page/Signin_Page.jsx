@@ -5,7 +5,11 @@ import Quote from "../../components/Quote/Quote";
 
 import './Signin_Page.css';
 
-export default function Signin_Page(){
+export default function Signin_Page({setNavState}){
+    /*setNavState({
+        inSignin: true,
+        inRegister: false
+    });*/
     return(
         <main className="content">
             <div className="main-body">

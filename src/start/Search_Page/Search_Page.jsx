@@ -5,7 +5,11 @@ import Result from "../../components/Result/Result";
 
 import './Search_Page.css';
 
-export default function Search_Page() {
+export default function Search_Page({setNavState}) {
+    /*setNavState({
+        inSignin: false,
+        inRegister: false
+    });*/
     const [ele,setEl]=React.useState(null);
     return (
         <main className="content">

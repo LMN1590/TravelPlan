@@ -11,6 +11,10 @@ import Signin_Page from "./src/start/Signin_Page/Signin_Page";
 
 
 function App() {
+  /*const [navState,setNavState]=React.useState({
+    inSignin: false,
+    inRegister: false
+  });*/
   return (
     <BrowserRouter>
       <Routes>

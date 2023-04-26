@@ -1,5 +1,28 @@
-.signinBar{
+.sidebar{
     width:40%;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 -1px 0px rgba(0,0,0,0.02);
-    height: calc(100vh - 101px);
+    min-height:var(--no-nav-height);
+    display:flex;
+    align-items: center;
+    padding:20px;
+}
+.formDiv{
+    text-align: center;
+    margin:auto;
+    width:80%;
+}
+.input{
+    text-align: left;
+    margin:20px 0px;
+    
+}
+.input>input{
+    width:100%;
+    padding:10px;
+}
+.signinBtn{
+    margin:20px 0px;
+}
+.descText{
+    font-size:20px;
 }

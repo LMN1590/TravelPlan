@@ -1,6 +1,6 @@
 .result{
     width:70%;
-    height: calc(100vh - 101px);
+    height: var(--no-nav-height);
 }
 .result-quote{
     display: flex;

@@ -9,7 +9,11 @@ import Footer from "../../components/Footer/Footer";
 
 
 
-export default function Home() {
+export default function Home({setNavState}) {
+    /*setNavState({
+        inSignin: false,
+        inRegister: false
+    });*/
     const [link,setLink]=React.useState('');
     function setLinkWrapper(){
         $.ajax({
