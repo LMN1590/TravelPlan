@@ -8,8 +8,18 @@ import places from '../../data/place.json'
 
 import './Searcher.css';
 
+import { createResult } from "../../utils/Searcher/test";
+import { queryExc } from "../../utils/Searcher/query";
+
 export default function Searcher({ele,setEl}) {
-    const placesCard = places.map(el => {
+    const [res,setRes]=React.useState([]);
+    const [query,setQuery]=React.useState("");
+
+    function search(q){
+        queryExc(q,setRes);
+    }
+
+    const placesCard = res.map(el => {
         let style = {
             backgroundImage: `url('${el.photos}')`,
         }
@@ -23,7 +33,7 @@ export default function Searcher({ele,setEl}) {
                 <div className="details">
                     <div className="nameType">
                         <div className="name">
-                            {el.name}
+                            {el.title}
                         </div>
                         <div className="type" style={el.type?{}:none}>
                             {el.type}
@@ -34,7 +44,7 @@ export default function Searcher({ele,setEl}) {
                             <i className="fa-solid fa-map"></i>
                         </div>
                         <div className="addr">
-                            {el.formatted_address ? el.formatted_address : el.plus_code}
+                            {el.formatted_address ? el.formatted_address : el.country}
                         </div>
                     </div>
                     <div className="phone withIcon" style={el.formatted_phone_number?{}:none}>
@@ -61,8 +71,10 @@ export default function Searcher({ele,setEl}) {
                         placeholder="Search locations"
                         aria-label="Location"
                         aria-describedby="basic-addon2"
+                        value={query}
+                        onChange={event=>setQuery(event.target.value)}
                     />
-                    <Button variant="secondary" className="searchBtn">
+                    <Button variant="secondary" className="searchBtn" onClick={()=>search(query)}>
                         Search
                     </Button>
                 </InputGroup>

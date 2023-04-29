@@ -56,7 +56,7 @@ export default function Result({ ele, setEl }) {
                 </div>
                 <div className="loc-details">
                     <div className="loc-name">
-                        <p>{ele.name}</p>
+                        <p>{ele.title}</p>
                     </div>
                     <div className="loc-type">
                         <p><span className="loc-header">TYPE OF ESTABLISHMENT</span>: {ele.type}</p>
@@ -65,7 +65,7 @@ export default function Result({ ele, setEl }) {
                         <p><span className="loc-header">ADDRESS</span>: {ele.formatted_address}</p>
                     </div>
                     <div className="loc-code">
-                        <p><span className="loc-header">PLUS CODE</span>: {ele.plus_code}</p>
+                        <p><span className="loc-header">PLUS CODE</span>: {ele.country}</p>
                     </div>
                     <div className="loc-phone">
                         <p><span className="loc-header">PHONE NUMBER</span>: {ele.formatted_phone_number}</p>

@@ -1,0 +1,205 @@
+{
+    "location_id": "275235",
+    "name": "Prague Castle",
+    "description": "The largest castle in Europe contains more than seven hundred rooms.",
+    "web_url": "https://www.tripadvisor.com/Attraction_Review-g274707-d275235-Reviews-Prague_Castle-Prague_Bohemia.html?m=66827",
+    "address_obj": {
+      "street1": "Hradcany",
+      "street2": "",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "postalcode": "11908",
+      "address_string": "Hradcany, Prague 11908 Czech Republic"
+    },
+    "ancestors": [
+      {
+        "level": "City",
+        "name": "Prague",
+        "location_id": "274707"
+      },
+      {
+        "level": "Region",
+        "name": "Bohemia",
+        "location_id": "274685"
+      },
+      {
+        "level": "Country",
+        "name": "Czech Republic",
+        "location_id": "274684"
+      }
+    ],
+    "latitude": "50.090553",
+    "longitude": "14.401388",
+    "timezone": "Europe/Prague",
+    "email": "tourist.info@hrad.cz",
+    "phone": "+420 224 373 368",
+    "website": "http://www.hrad.cz/en/prague-castle/prague-castle-tourist-information/visit-of-prague-castle.shtml",
+    "write_review": "https://www.tripadvisor.com/UserReview-g274707-d275235-Prague_Castle-Prague_Bohemia.html?m=66827",
+    "ranking_data": {
+      "geo_location_id": "274707",
+      "ranking_string": "#4 of 1,552 things to do in Prague",
+      "geo_location_name": "Prague",
+      "ranking_out_of": "1552",
+      "ranking": "4"
+    },
+    "rating": "4.5",
+    "rating_image_url": "https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+    "num_reviews": "36715",
+    "review_rating_count": {
+      "1": "262",
+      "2": "627",
+      "3": "3331",
+      "4": "10938",
+      "5": "21557"
+    },
+    "photo_count": "32258",
+    "see_all_photos": "https://www.tripadvisor.com/Attraction_Review-g274707-d275235-m66827-Reviews-Prague_Castle-Prague_Bohemia.html#photos",
+    "hours": {
+      "periods": [
+        {
+          "open": {
+            "day": 1,
+            "time": "1200"
+          },
+          "close": {
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "time": "1200"
+          },
+          "close": {
+            "day": 2,
+            "time": "1230"
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "time": "1200"
+          },
+          "close": {
+            "day": 3,
+            "time": "1230"
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "time": "1200"
+          },
+          "close": {
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "time": "1200"
+          },
+          "close": {
+            "day": 5,
+            "time": "1230"
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "time": "1200"
+          },
+          "close": {
+            "day": 6,
+            "time": "1230"
+          }
+        },
+        {
+          "open": {
+            "day": 7,
+            "time": "1200"
+          },
+          "close": {
+            "day": 7,
+            "time": "1230"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 - 12:30",
+        "Tuesday: 12:00 - 12:30",
+        "Wednesday: 12:00 - 12:30",
+        "Thursday: 12:00 - 12:30",
+        "Friday: 12:00 - 12:30",
+        "Saturday: 12:00 - 12:30",
+        "Sunday: 12:00 - 12:30"
+      ]
+    },
+    "category": {
+      "name": "attraction",
+      "localized_name": "Attraction"
+    },
+    "subcategory": [
+      {
+        "name": "landmarks",
+        "localized_name": "Sights & Landmarks"
+      },
+      {
+        "name": "attractions",
+        "localized_name": "Attractions"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Sights & Landmarks",
+        "localized_name": "Sights & Landmarks",
+        "categories": [
+          {
+            "name": "Castles",
+            "localized_name": "Castles"
+          }
+        ]
+      }
+    ],
+    "trip_types": [
+      {
+        "name": "business",
+        "localized_name": "Business",
+        "value": "576"
+      },
+      {
+        "name": "couples",
+        "localized_name": "Couples",
+        "value": "16094"
+      },
+      {
+        "name": "solo",
+        "localized_name": "Solo travel",
+        "value": "2228"
+      },
+      {
+        "name": "family",
+        "localized_name": "Family",
+        "value": "5674"
+      },
+      {
+        "name": "friends",
+        "localized_name": "Friends getaway",
+        "value": "6949"
+      }
+    ],
+    "awards": [
+      {
+        "award_type": "Travelers Choice",
+        "year": "2022",
+        "images": {
+          "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_v2_small-66827-5.jpg",
+          "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2022_en_US_large-66827-5.jpg"
+        },
+        "categories": [],
+        "display_name": "Travelers Choice 2022"
+      }
+    ]
+  }
