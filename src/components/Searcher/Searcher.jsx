@@ -8,20 +8,22 @@ import places from '../../data/place.json'
 
 import './Searcher.css';
 
-import { createResult } from "../../utils/Searcher/test";
-import { queryExc } from "../../utils/Searcher/query";
+import { queryExc } from "../../API/query";
 
 export default function Searcher({ele,setEl}) {
-    const [res,setRes]=React.useState([]);
+    const [res,setRes]=React.useState({
+        loc:[],
+        post:[]
+    });
     const [query,setQuery]=React.useState("");
 
     function search(q){
         queryExc(q,setRes);
     }
 
-    const placesCard = res.map(el => {
+    const placesCard = res.loc.map(el => {
         let style = {
-            backgroundImage: `url('${el.photos}')`,
+            backgroundImage: `url('${el.photos?el.photos[0]:""}')`,
         }
         let none={
             display: 'none'

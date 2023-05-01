@@ -23,15 +23,63 @@ function getQuote() {
 }
 
 export default function Result({ ele, setEl }) {
-    let style = {
-        backgroundImage: `url('${ele ? ele.photos : ""}')`,
+    let backPhoto="";
+    try {
+        backPhoto=ele.photos[0];
+    } catch (error) {
+        backPhoto="";
     }
+    let style = {
+        backgroundImage: `url('${backPhoto}')`,
+    }
+
+
     React.useEffect(() => {
         if (!ele) {
             $(".quoteText-wrapper .quoteText").text(quote[0].quote);
             $(".quote .quoteAuthor").text("- " + quote[0].author)
         }
-    }, [])
+    }, []);
+
+
+    const [review, setReview] = React.useState([]);
+
+    React.useEffect(() => {
+        try {
+            setReview(ele.reviews);
+        } catch (error) {
+            setReview([]);
+        }
+    }, [ele])
+
+    const reviewDiv = review.map(el => {
+        return (
+        <div className="loc-single-review" key={el.username}>
+            <div className="loc-review-author">
+                <div className="loc-review-usr">
+                    <span className="loc-header">From</span>: {el.username}
+                </div>
+                <div className="loc-review-usrLocation">
+                    {el.location}
+                </div>
+            </div>
+            <div className="loc-review-info">
+                <div className="loc-review-title">
+                    {el.title}
+                </div>
+                <div className="loc-review-type">
+                    {el.tripType}
+                </div>
+            </div>
+            <div className="loc-review-content">
+                <p>{el.text}</p>
+            </div>
+            <div className="loc-review-score">
+                <span className="loc-header">Score</span>: {el.rating} 
+                <i className="fa-solid fa-star star" ></i>
+            </div>
+        </div>)
+    })
     return (
         <div className={`result ${ele ? "result-el" : "result-quote"}`}>
             <div className="quote" style={{ display: ele ? 'none' : 'block' }}>
@@ -65,7 +113,7 @@ export default function Result({ ele, setEl }) {
                         <p><span className="loc-header">ADDRESS</span>: {ele.formatted_address}</p>
                     </div>
                     <div className="loc-code">
-                        <p><span className="loc-header">PLUS CODE</span>: {ele.country}</p>
+                        <p><span className="loc-header">COUNTRY</span>: {ele.country}</p>
                     </div>
                     <div className="loc-phone">
                         <p><span className="loc-header">PHONE NUMBER</span>: {ele.formatted_phone_number}</p>
@@ -80,7 +128,7 @@ export default function Result({ ele, setEl }) {
                         <div className="loc-score">
                             <div className="loc-star">
                                 <span><span className="loc-header">USER SCORE</span>: {ele.rating} </span>
-                                <i className="fa-solid fa-star star" ></i> 
+                                <i className="fa-solid fa-star star" ></i>
                             </div>
                             <div className="loc-reviewCount">
                                 <span className="loc-header">TOTAL</span>:
@@ -88,28 +136,7 @@ export default function Result({ ele, setEl }) {
                             </div>
                         </div>
                         <div className="loc-reviews">
-                            <div className="loc-single-review">
-                                <div className="loc-review-author">
-                                    <p>{`From: John Doe`}</p>
-                                </div>
-                                <div className="loc-review-content">
-                                    <p>The place was nice and clean. The staff was friendly and attentive. 
-                                        The atmosphere was relaxing and comfortable. 
-                                        Overall, it was a pleasant experience.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="loc-reviews">
-                            <div className="loc-single-review">
-                                <div className="loc-review-author">
-                                    <p>{`From: John Doe`}</p>
-                                </div>
-                                <div className="loc-review-content">
-                                    <p>The place was nice and clean. The staff was friendly and attentive. 
-                                        The atmosphere was relaxing and comfortable. 
-                                        Overall, it was a pleasant experience.</p>
-                                </div>
-                            </div>
+                            {reviewDiv}
                         </div>
                     </div>
                 </div>

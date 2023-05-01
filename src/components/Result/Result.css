@@ -36,10 +36,10 @@
     background-position:center
 }
 .loc-details{
-    height:calc(100vh - 101px - 400px);
     width: 80%;
     margin:auto;
     margin-top:20px;
+    margin-bottom:20px;
 }
 .specs::-webkit-scrollbar{
     width:5px;
@@ -81,6 +81,27 @@
     border-bottom:1px solid black;
 }
 .loc-single-review{
-    padding:10px;
+    padding:10px 30px;
+}
+.loc-single-review:not(:last-child){
     border-bottom: 1px solid black;
+}
+.loc-review-author{
+    font-size:20px;
+}
+.loc-review-title{
+    font-weight: bold;
+}
+.loc-review-author, .loc-review-info{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.loc-review-score{
+    display:flex;
+    justify-content: end;
+    font-size:20px;
+}
+.loc-review-score .star{
+    margin-top:3px;
 }
