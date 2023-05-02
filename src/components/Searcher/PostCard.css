@@ -1,0 +1,51 @@
+.post-ref, .post-ref:hover{
+    all:unset;
+}
+.post-single{
+    padding:10px;
+}
+.post-single:hover{
+    background-color: lightgray;
+}
+.post-src-wrapper{
+    display:flex;
+}
+.post-src-icon{
+    display: flex;
+    align-items: center;
+}
+.post-src-img{
+    height:30px;
+    width:30px;
+    padding:5px;
+    border-radius: 20px;
+    background-color: rgb(216, 216, 216);
+}
+.post-src-img>img{
+    height:100%;
+    display:block;
+    border-radius: 20px;
+}
+.post-src-info{
+    padding:5px;
+
+}
+.post-src-title{
+    font-size:15px;
+    cursor: pointer;
+}
+.post-src-title:hover{
+    text-decoration: underline;
+}
+.post-src-link{
+    font-size:10px;
+    color:rgb(114, 114, 114);
+}
+.post-title{
+    color:blue;
+    font-size:20px;
+    cursor: pointer;
+}
+.post-title:hover{
+    text-decoration: underline;
+}

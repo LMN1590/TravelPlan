@@ -1,16 +1,19 @@
-import $ from 'jquery';
-
-import { serpAPI } from './serpAPI';
-import { formatRes } from './formatRes';
+import { serpAPI } from "./serpAPI";
+import {formatRes} from './formatRes';
 
 function apiCallForPost(query){
-    const postRes=serpAPI(query).organic_results;
+    const data=serpAPI(query);
 
-    if(!postRes) return [[]];
+    const postRes=data.organic_results;
 
-    const formattedData=postRes.map(el => formatRes(el));
-
-    return [formattedData];
+    if(!postRes){
+        return [[]];
+    }
+    else{
+        const formattedData=postRes.map(el => formatRes(el));
+        return [formattedData]
+    }
+    
 }
 
 export {apiCallForPost};

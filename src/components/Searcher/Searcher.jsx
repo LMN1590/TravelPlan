@@ -4,9 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 
-import places from '../../data/place.json';
-
-import PlaceCard from "./placeCard";
+import PlaceCard from "./PlaceCard";
 import PostCard from "./PostCard";
 
 import './Searcher.css';
@@ -26,7 +24,7 @@ export default function Searcher({ele,setEl}) {
     }
 
     const placesCard = res.loc.map(el => {
-        return <PlaceCard el={el} key={el.place_id}/>
+        return <PlaceCard el={el} setEl={setEl} key={el.place_id}/>
     })
 
     const postCard=res.post.map(el => {

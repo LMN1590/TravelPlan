@@ -60,7 +60,6 @@ function formatRes(hereEl){
     } catch (error) {
         taRef=[];
     }
-    console.log(hereEl.references);
     if (taRef){
         taRef=taRef[0].id
     }

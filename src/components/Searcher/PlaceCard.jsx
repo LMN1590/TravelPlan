@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function PlaceCard({el}) {
+export default function PlaceCard({el,setEl}) {
     let style = {
         backgroundImage: `url('${el.photos ? el.photos[0] : ""}')`,
     }
