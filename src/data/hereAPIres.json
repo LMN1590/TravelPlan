@@ -2,7 +2,7 @@
     "items": [
         {
             "title": "Prague Castle",
-            "id": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059be3db",
+            "id": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059e3db",
             "language": "en",
             "resultType": "place",
             "address": {
@@ -260,7 +260,7 @@
         },
         {
             "title": "Prague Castle",
-            "id": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059be3db",
+            "id": "here:pds:place:203u2fhz-6b28564a10644b0a453b408059be3db",
             "language": "en",
             "resultType": "place",
             "address": {

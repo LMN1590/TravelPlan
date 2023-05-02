@@ -10,11 +10,11 @@ function queryExc(query,setRes){
         apiCallForPost(query)
     ).then(
         (loc,post)=>{
-            console.log("This is for my boy loc: %o",loc);
-            console.log("This is for my girl post: %o",post);
+            console.log("This is for loc: %o",loc);
+            console.log("This is for post: %o",post);
             setRes({
                 loc:loc[0],
-                post:post
+                post:post[0]
             })
         }
     ).catch(

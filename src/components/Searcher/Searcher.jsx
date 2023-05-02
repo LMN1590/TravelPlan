@@ -4,9 +4,13 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 
-import places from '../../data/place.json'
+import places from '../../data/place.json';
+
+import PlaceCard from "./placeCard";
+import PostCard from "./PostCard";
 
 import './Searcher.css';
+
 
 import { queryExc } from "../../API/test/query";
 
@@ -22,49 +26,15 @@ export default function Searcher({ele,setEl}) {
     }
 
     const placesCard = res.loc.map(el => {
-        let style = {
-            backgroundImage: `url('${el.photos?el.photos[0]:""}')`,
-        }
-        let none={
-            display: 'none'
-        }
-        return (
-            <div className="res-card" key={el.place_id} onClick={()=>{setEl(el)}}>
-                <div className="img" style={style} onClick={() => window.open(el.website)}>
-                </div>
-                <div className="details">
-                    <div className="nameType">
-                        <div className="name">
-                            {el.title}
-                        </div>
-                        <div className="type" style={el.type?{}:none}>
-                            {el.type}
-                        </div>
-                    </div>
-                    <div className="addrCode withIcon">
-                        <div className="icon">
-                            <i className="fa-solid fa-map"></i>
-                        </div>
-                        <div className="addr">
-                            {el.formatted_address ? el.formatted_address : el.country}
-                        </div>
-                    </div>
-                    <div className="phone withIcon" style={el.formatted_phone_number?{}:none}>
-                        <div className="icon">
-                            <i className="fa-solid fa-phone"></i>
-                        </div>
-                        <div className="phoneNum">
-                            {el.formatted_phone_number}
-                        </div>
-                    </div>
-                    <div className="rating">
-                        <i className="fa-regular fa-star star" ></i> 
-                        <p> {el.rating} ({el.user_ratings_total})</p>
-                    </div>
-                </div>
-            </div>
-        )
+        return <PlaceCard el={el} key={el.place_id}/>
     })
+
+    const postCard=res.post.map(el => {
+        return <PostCard el={el} key={el.position}/>
+    })
+
+
+
     return (
         <div className="searcher">
             <div className="searchbar-wrapper">
@@ -84,6 +54,7 @@ export default function Searcher({ele,setEl}) {
             <div className="res-cards-wrapper">
                 <div className="res-cards">
                     {placesCard}
+                    {postCard}
                 </div>
             </div>
         </div>

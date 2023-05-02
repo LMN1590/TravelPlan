@@ -14,7 +14,7 @@ function queryExc(query,setRes){
             console.log("This is for my girl post: %o",post);
             setRes({
                 loc:loc[0],
-                post:post
+                post:post[0]
             })
         }
     ).catch(
