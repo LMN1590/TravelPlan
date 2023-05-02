@@ -8,7 +8,7 @@ import places from '../../data/place.json'
 
 import './Searcher.css';
 
-import { queryExc } from "../../API/query";
+import { queryExc } from "../../API/test/query";
 
 export default function Searcher({ele,setEl}) {
     const [res,setRes]=React.useState({

@@ -1,0 +1,391 @@
+{
+    "items": [
+        {
+            "title": "Prague Castle",
+            "id": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059be3db",
+            "language": "en",
+            "resultType": "place",
+            "address": {
+                "label": "Prague Castle, Hradčanské náměstí, 119 00 Prague, Czechia",
+                "countryCode": "CZE",
+                "countryName": "Czechia",
+                "state": "Prague",
+                "county": "Prague",
+                "city": "Prague",
+                "district": "Praha 1",
+                "street": "Hradčanské náměstí",
+                "postalCode": "119 00"
+            },
+            "position": {
+                "lat": 50.09013,
+                "lng": 14.39869
+            },
+            "access": [
+                {
+                    "lat": 50.08934,
+                    "lng": 14.39817
+                }
+            ],
+            "distance": 206875,
+            "categories": [
+                {
+                    "id": "300-3000-0025",
+                    "name": "Historical Monument",
+                    "primary": true
+                },
+                {
+                    "id": "300-3000-0000",
+                    "name": "Landmark-Attraction"
+                },
+                {
+                    "id": "300-3000-0023",
+                    "name": "Tourist Attraction"
+                },
+                {
+                    "id": "300-3000-0030",
+                    "name": "Castle"
+                },
+                {
+                    "id": "300-3100-0000",
+                    "name": "Museum"
+                }
+            ],
+            "references": [
+                {
+                    "supplier": {
+                        "id": "core"
+                    },
+                    "id": "545982229"
+                },
+                {
+                    "supplier": {
+                        "id": "core"
+                    },
+                    "id": "545982230"
+                },
+                {
+                    "supplier": {
+                        "id": "tripadvisor"
+                    },
+                    "id": "275235"
+                },
+                {
+                    "supplier": {
+                        "id": "yelp"
+                    },
+                    "id": "rRHqp_-fNaJqVprsUOzq8A"
+                }
+            ],
+            "contacts": [
+                {
+                    "phone": [
+                        {
+                            "value": "+420224371111",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0000"
+                                },
+                                {
+                                    "id": "300-3000-0030"
+                                },
+                                {
+                                    "id": "300-3100-0000"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "+420224372423",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0025"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "+420224373368"
+                        }
+                    ],
+                    "www": [
+                        {
+                            "value": "http://www.hrad.cz",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0025"
+                                },
+                                {
+                                    "id": "300-3100-0000"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "http://www.hrad.cz/en/prague-castle/prague-castle-tourist-information/visit-of-prague-castle.shtml",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0023"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Prague Castle",
+            "id": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059be3db",
+            "language": "en",
+            "resultType": "place",
+            "address": {
+                "label": "Prague Castle, Hradčanské náměstí, 119 00 Prague, Czechia",
+                "countryCode": "CZE",
+                "countryName": "Czechia",
+                "state": "Prague",
+                "county": "Prague",
+                "city": "Prague",
+                "district": "Praha 1",
+                "street": "Hradčanské náměstí",
+                "postalCode": "119 00"
+            },
+            "position": {
+                "lat": 50.09013,
+                "lng": 14.39869
+            },
+            "access": [
+                {
+                    "lat": 50.08934,
+                    "lng": 14.39817
+                }
+            ],
+            "distance": 206875,
+            "categories": [
+                {
+                    "id": "300-3000-0025",
+                    "name": "Historical Monument",
+                    "primary": true
+                },
+                {
+                    "id": "300-3000-0000",
+                    "name": "Landmark-Attraction"
+                },
+                {
+                    "id": "300-3000-0023",
+                    "name": "Tourist Attraction"
+                },
+                {
+                    "id": "300-3000-0030",
+                    "name": "Castle"
+                },
+                {
+                    "id": "300-3100-0000",
+                    "name": "Museum"
+                }
+            ],
+            "references": [
+                {
+                    "supplier": {
+                        "id": "core"
+                    },
+                    "id": "545982229"
+                },
+                {
+                    "supplier": {
+                        "id": "core"
+                    },
+                    "id": "545982230"
+                },
+                {
+                    "supplier": {
+                        "id": "tripadvisor"
+                    },
+                    "id": "275235"
+                },
+                {
+                    "supplier": {
+                        "id": "yelp"
+                    },
+                    "id": "rRHqp_-fNaJqVprsUOzq8A"
+                }
+            ],
+            "contacts": [
+                {
+                    "phone": [
+                        {
+                            "value": "+420224371111",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0000"
+                                },
+                                {
+                                    "id": "300-3000-0030"
+                                },
+                                {
+                                    "id": "300-3100-0000"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "+420224372423",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0025"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "+420224373368"
+                        }
+                    ],
+                    "www": [
+                        {
+                            "value": "http://www.hrad.cz",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0025"
+                                },
+                                {
+                                    "id": "300-3100-0000"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "http://www.hrad.cz/en/prague-castle/prague-castle-tourist-information/visit-of-prague-castle.shtml",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0023"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Prague Castle",
+            "id": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059be3db",
+            "language": "en",
+            "resultType": "place",
+            "address": {
+                "label": "Prague Castle, Hradčanské náměstí, 119 00 Prague, Czechia",
+                "countryCode": "CZE",
+                "countryName": "Czechia",
+                "state": "Prague",
+                "county": "Prague",
+                "city": "Prague",
+                "district": "Praha 1",
+                "street": "Hradčanské náměstí",
+                "postalCode": "119 00"
+            },
+            "position": {
+                "lat": 50.09013,
+                "lng": 14.39869
+            },
+            "access": [
+                {
+                    "lat": 50.08934,
+                    "lng": 14.39817
+                }
+            ],
+            "distance": 206875,
+            "categories": [
+                {
+                    "id": "300-3000-0025",
+                    "name": "Historical Monument",
+                    "primary": true
+                },
+                {
+                    "id": "300-3000-0000",
+                    "name": "Landmark-Attraction"
+                },
+                {
+                    "id": "300-3000-0023",
+                    "name": "Tourist Attraction"
+                },
+                {
+                    "id": "300-3000-0030",
+                    "name": "Castle"
+                },
+                {
+                    "id": "300-3100-0000",
+                    "name": "Museum"
+                }
+            ],
+            "references": [
+                {
+                    "supplier": {
+                        "id": "core"
+                    },
+                    "id": "545982229"
+                },
+                {
+                    "supplier": {
+                        "id": "core"
+                    },
+                    "id": "545982230"
+                },
+                {
+                    "supplier": {
+                        "id": "tripadvisor"
+                    },
+                    "id": "275235"
+                },
+                {
+                    "supplier": {
+                        "id": "yelp"
+                    },
+                    "id": "rRHqp_-fNaJqVprsUOzq8A"
+                }
+            ],
+            "contacts": [
+                {
+                    "phone": [
+                        {
+                            "value": "+420224371111",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0000"
+                                },
+                                {
+                                    "id": "300-3000-0030"
+                                },
+                                {
+                                    "id": "300-3100-0000"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "+420224372423",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0025"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "+420224373368"
+                        }
+                    ],
+                    "www": [
+                        {
+                            "value": "http://www.hrad.cz",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0025"
+                                },
+                                {
+                                    "id": "300-3100-0000"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "http://www.hrad.cz/en/prague-castle/prague-castle-tourist-information/visit-of-prague-castle.shtml",
+                            "categories": [
+                                {
+                                    "id": "300-3000-0023"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
