@@ -17,6 +17,7 @@ export default function Searcher({ele,setEl}) {
         loc:[],
         post:[]
     });
+    
     const [query,setQuery]=React.useState("");
 
     function search(q){

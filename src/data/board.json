@@ -1,0 +1,192 @@
+[
+    {
+        "place_id": {
+            "S": "here:pds:place:203u2fhz-6b285b64a10644b0a453b408059be3db"
+        },
+        "country": {
+            "S": "Czechia"
+        },
+        "desc": {
+            "S": "The largest castle in Europe contains more than seven hundred rooms."
+        },
+        "formatted_address": {
+            "S": "Prague Castle, Hradčanské náměstí, 119 00 Prague, Czechia"
+        },
+        "formatted_phone_number": {
+            "S": "+420224371111"
+        },
+        "rating": {
+            "S": "4.5"
+        },
+        "taRef": {
+            "S": "275235"
+        },
+        "title": {
+            "S": "Prague Castle"
+        },
+        "type": {
+            "S": "Historical Monument"
+        },
+        "user_ratings_total": {
+            "S": "36715"
+        },
+        "view": {
+            "N": "2"
+        },
+        "website": {
+            "S": "http://www.hrad.cz"
+        }
+    },
+    {
+        "place_id": {
+            "S": "here:pds:place:203u2sdasdfhz-6b285b64a10644b0a453b408059be3db"
+        },
+        "country": {
+            "S": "Czechia"
+        },
+        "desc": {
+            "S": "The largest castle in Europe contains more than seven hundred rooms."
+        },
+        "formatted_address": {
+            "S": "Prague Castle, Hradčanské náměstí, 119 00 Prague, Czechia"
+        },
+        "formatted_phone_number": {
+            "S": "+420224371111"
+        },
+        "rating": {
+            "S": "4.5"
+        },
+        "taRef": {
+            "S": "275235"
+        },
+        "title": {
+            "S": "Prague Castle"
+        },
+        "type": {
+            "S": "Historical Monument"
+        },
+        "user_ratings_total": {
+            "S": "36715"
+        },
+        "view": {
+            "N": "2"
+        },
+        "website": {
+            "S": "http://www.hrad.cz"
+        }
+    },
+    {
+        "place_id": {
+            "S": "here:pds:place:276u28wg-b127a71c94ea4569bb47bedf96ac65ff"
+        },
+        "country": {
+            "S": "Germany"
+        },
+        "desc": {
+            "S": "The largest castle in Europe contains more than seven hundred rooms."
+        },
+        "formatted_address": {
+            "S": "Steinerne Brücke, Lieblstraße, 93059 Regensburg, Germany"
+        },
+        "formatted_phone_number": {
+            "S": "+420224371111"
+        },
+        "rating": {
+            "S": "3.5"
+        },
+        "taRef": {
+            "S": "275235"
+        },
+        "title": {
+            "S": "Steinerne Brücke (Old Stone Bridge)"
+        },
+        "type": {
+            "S": "Historical Monument"
+        },
+        "user_ratings_total": {
+            "S": "36715"
+        },
+        "view": {
+            "N": "20"
+        },
+        "website": {
+            "S": "http://www.regensburg.de"
+        }
+    },
+    {
+        "place_id": {
+            "S": "here:pds:place:704jx7ps-f2829a25fa7f0f37ce387e6c45c4788e"
+        },
+        "country": {
+            "S": "Vietnam"
+        },
+        "desc": {
+            "S": "The largest castle in Europe contains more than seven hundred rooms."
+        },
+        "formatted_address": {
+            "S": "Ha Long Bay, Đường Trần Quốc Nghiễn, Phường Hồng Hà, Hạ Long, VN-13, Vietnam"
+        },
+        "formatted_phone_number": {
+            "S": "+420224371111"
+        },
+        "rating": {
+            "S": "5.0"
+        },
+        "taRef": {
+            "S": "275235"
+        },
+        "title": {
+            "S": "Ha Long Bay"
+        },
+        "type": {
+            "S": "Tourist Attraction"
+        },
+        "user_ratings_total": {
+            "S": "715"
+        },
+        "view": {
+            "N": "2230"
+        },
+        "website": {
+            "S": "http://www.regensburg.de"
+        }
+    },
+    {
+        "place_id": {
+            "S": "here:pds:place:528u173z-e23eba82f4d6482aa9fdae6daf7d3505"
+        },
+        "country": {
+            "S": "Netherlands"
+        },
+        "desc": {
+            "S": "The largest castle in Europe contains more than seven hundred rooms."
+        },
+        "formatted_address": {
+            "S": "Centraal Station, Stationsplein 15, 1012 AB Amsterdam, Netherlands"
+        },
+        "formatted_phone_number": {
+            "S": "+31203445074"
+        },
+        "rating": {
+            "S": "5.9"
+        },
+        "taRef": {
+            "S": "275235"
+        },
+        "title": {
+            "S": "Centraal Station"
+        },
+        "type": {
+            "S": "Railway Station"
+        },
+        "user_ratings_total": {
+            "S": "5"
+        },
+        "view": {
+            "N": "10"
+        },
+        "website": {
+            "S": "https://www.gvb.nl"
+        }
+    }
+]

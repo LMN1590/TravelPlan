@@ -2,6 +2,7 @@ import $ from 'jquery';
 
 import { apiCallForLoc } from './apiLoc/apiCall';
 import { apiCallForPost } from './apiPost/apiCall';
+import { writeTable } from './writeTable/writeTable';
 
 function queryExc(query,setRes){
     console.log("API call baby");
@@ -15,8 +16,11 @@ function queryExc(query,setRes){
             setRes({
                 loc:loc[0],
                 post:post[0]
-            })
+            });
+            return JSON.stringify(loc[0]);
         }
+    ).then(
+        writeTable
     ).catch(
         (err)=>{
             setRes({

@@ -1,0 +1,24 @@
+.leaderboard{
+    margin:auto;
+    width:90%;
+    padding:20px 0px;
+}
+.board-title{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+.board-wrapper{
+    margin-top:25px;
+    border-collapse: collapse;
+    border:1px solid black;
+}
+.board-item:nth-child(1){
+    background-color: rgb(247, 223, 14);
+}
+.board-item:nth-child(2){
+    background-color: silver;
+}
+.board-item:nth-child(3){
+    background-color: orange;
+}

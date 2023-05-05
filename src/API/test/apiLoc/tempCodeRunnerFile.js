@@ -1,1 +1,0 @@
-import details from '../../../data/tripadvisorGen.json';

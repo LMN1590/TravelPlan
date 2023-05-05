@@ -32,6 +32,11 @@ export default function NavBar({inRegister,inSignin}) {
                         </Offcanvas.Header>
                         <Offcanvas.Body>
                             <Nav className="justify-content-end flex-grow-1 pe-3">
+                            <Nav.Link href="/board">
+                                    <Button  variant="light" className="board btnNav">
+                                        <i className="fa-solid fa-star star" ></i> Leaderboard
+                                    </Button>
+                                </Nav.Link>
                                 <Nav.Link href="/register" disabled={inRegister}>
                                     <Button disabled={inRegister}  variant="outline-primary" className="register btnNav">
                                         Register

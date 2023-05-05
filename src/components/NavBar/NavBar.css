@@ -15,7 +15,7 @@ nav .name{
     text-align: center;
 }
 .btnNav{
-    width:100px;
+    min-width:100px;
 }
 .register:hover{
     background-color:unset;
@@ -23,4 +23,7 @@ nav .name{
 }
 .offcanvas{
     --bs-offcanvas-width: 200px !important;
+}
+.board{
+    border:1px solid black;
 }
