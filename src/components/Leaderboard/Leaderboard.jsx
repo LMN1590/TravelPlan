@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import $ from 'jquery';
 
 import './Leaderboard.css';
 
@@ -6,11 +7,29 @@ import BoardItem from "./BoardItem";
 
 import boardItems from '../../data/board.json';
 
+function cmp(a,b){
+    return -(Number.parseFloat(a.view.N) - Number.parseFloat(b.view.N));
+}
+
+function callRanking(){
+    const URL="https://riqoukioq0.execute-api.eu-central-1.amazonaws.com/prod/writelocationresult"
+    return $.ajax({
+        method: 'GET',
+        url: URL,
+        contentType: 'application/json',
+    });
+}
+
 export default function LeaderBoard(){
     const [items,setItems]=React.useState([]);
 
     React,useEffect(()=>{
-        setItems(boardItems)
+        callRanking().then(data=>{
+            const temp=data.Items.sort(cmp);
+            setItems(temp);
+        }).catch(err =>{
+            console.log(err);
+        })
     }
     ,[]);
 
