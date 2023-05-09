@@ -29,11 +29,11 @@
     display:flex;
     flex-direction: column;
     justify-content: space-between;
-    padding:10px;
+    padding:15px;
     font-family: 'Montserrat', sans-serif;
 }
 .board-item{
-    height:100px;
+    height:120px;
 }
 .board-item-name-wrapper{
     font-size:30px;
@@ -46,4 +46,7 @@
 }
 .board-location-view{
     font-size:20px;
+}
+.board-item-type{
+    text-align: right;
 }

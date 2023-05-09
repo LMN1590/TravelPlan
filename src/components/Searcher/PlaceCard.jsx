@@ -36,10 +36,10 @@ export default function PlaceCard({el,setEl}) {
                         {el.formatted_phone_number}
                     </div>
                 </div>
-                <div className="rating">
+                {(el.rating && el.user_ratings_total) && <div className="rating">
                     <i className="fa-regular fa-star star" ></i>
                     <p> {el.rating} ({el.user_ratings_total})</p>
-                </div>
+                </div>}
             </div>
         </div>
     )

@@ -52,7 +52,7 @@ export default function Result({ ele, setEl }) {
         }
     }, [ele])
 
-    const reviewDiv = review.map(el => {
+    const reviewDiv = review && review.map(el => {
         return (
         <div className="loc-single-review" key={el.username}>
             <div className="loc-review-author">
@@ -99,9 +99,9 @@ export default function Result({ ele, setEl }) {
 
             </div>
             {ele && <div className="specs" style={{ display: !ele ? 'none' : 'block' }}>
-                <div className="header-img" style={style}>
+                {<div className="header-img" style={style}>
 
-                </div>
+                </div>}
                 <div className="loc-details">
                     <div className="loc-name">
                         <p>{ele.title}</p>
@@ -121,24 +121,23 @@ export default function Result({ ele, setEl }) {
                     <div className="loc-web">
                         <p><span className="loc-header">WEBSITE</span>: {ele.website}</p>
                     </div>
-                    <div className="loc-desc">
+                    {ele.desc && <div className="loc-desc">
                         <p><span className="loc-header">DESCRIPTION</span>: {ele.desc}</p>
-                    </div>
-                    <div className="loc-rating">
+                    </div>}
+                    {(ele.rating && ele.user_ratings_total) && <div className="loc-rating">
                         <div className="loc-score">
                             <div className="loc-star">
-                                <span><span className="loc-header">USER SCORE</span>: {ele.rating} </span>
-                                <i className="fa-solid fa-star star" ></i>
+                                {ele.rating && <span><span className="loc-header">USER SCORE</span>: {ele.rating} </span>}
+                                {ele.rating && <i className="fa-solid fa-star star" ></i>}
                             </div>
                             <div className="loc-reviewCount">
-                                <span className="loc-header">TOTAL</span>:
-                                {`${ele.user_ratings_total} reviews`}
+                                { ele.user_ratings_total && <span><span className="loc-header">TOTAL</span>: {`${ele.user_ratings_total} reviews`}</span>}
                             </div>
                         </div>
                         <div className="loc-reviews">
                             {reviewDiv}
                         </div>
-                    </div>
+                    </div> }
                 </div>
             </div>}
         </div>

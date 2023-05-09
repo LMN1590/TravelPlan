@@ -34,7 +34,7 @@
     display:flex;
     justify-content: space-between;
     padding:10px;
-    height: 200px;
+    height: 250px;
 }
 .res-card:hover{
     background-color: lightgray;

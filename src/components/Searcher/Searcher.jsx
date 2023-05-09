@@ -10,25 +10,25 @@ import PostCard from "./PostCard";
 import './Searcher.css';
 
 
-import { queryExc } from "../../API/test/query";
+import { queryExc } from "../../API/query";
 
 export default function Searcher({ele,setEl}) {
-    const [res,setRes]=React.useState({
-        loc:[],
-        post:[]
-    });
+    const [loc,setLoc]=React.useState([]);
+    const [post,setPost]=React.useState([]);
     
     const [query,setQuery]=React.useState("");
 
     function search(q){
-        queryExc(q,setRes);
+        setLoc([]);
+        setPost([]);
+        queryExc(q,setLoc,setPost);
     }
 
-    const placesCard = res.loc.map(el => {
+    const placesCard = loc.map(el => {
         return <PlaceCard el={el} setEl={setEl} key={el.place_id}/>
     })
 
-    const postCard=res.post.map(el => {
+    const postCard=post.map(el => {
         return <PostCard el={el} key={el.position}/>
     })
 

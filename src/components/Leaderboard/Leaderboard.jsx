@@ -8,7 +8,11 @@ import BoardItem from "./BoardItem";
 import boardItems from '../../data/board.json';
 
 function cmp(a,b){
-    return -(Number.parseFloat(a.view.N) - Number.parseFloat(b.view.N));
+    const temp=-(Number.parseFloat(a.view.N) - Number.parseFloat(b.view.N));
+    if(temp===0){
+        return -(Number.parseFloat(a.rating.S) - Number.parseFloat(b.rating.S))
+    }
+    else return temp;
 }
 
 function callRanking(){

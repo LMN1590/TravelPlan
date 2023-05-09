@@ -1,7 +1,7 @@
 import { serpAPI } from "./serpAPI";
 import {formatRes} from './formatRes';
 
-function apiCallForPost(query){
+async function apiCallForPost(query){
     const data=serpAPI(query);
 
     const postRes=data.organic_results;

@@ -4,7 +4,7 @@ import {getDetailsWrapper} from './detailsAPI';
 import {getReviewWrapper} from './reviewAPI';
 import {formatRes} from './formatRes';
 
-function apiCallForLoc(query){
+async function apiCallForLoc(query){
     const hereAPIres=hereAPI(query);
     const dataFull=hereAPIres.items.map(el => {
         const formattedData=formatRes(el);
