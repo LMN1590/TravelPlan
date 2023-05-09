@@ -15,14 +15,14 @@
 }
 .quoteText-wrapper{
     font-family: 'Times New Roman', Times, serif;
-    font-size:30px;
+    font-size:20px;
     font-weight: 700;
 }
 .quoteAuthor-wrapper{
     display:flex;
     justify-content: flex-end;
     font-family: 'Times New Roman', Times, serif;
-    font-size:20px;
+    font-size:15px;
     font-weight: 500;
 }
 .specs{

@@ -13,8 +13,9 @@ function getQuote() {
         url: 'https://api.api-ninjas.com/v1/quotes?category=' + category,
         headers: { 'X-Api-Key': 'nftx9aLPsDhbbOK4p5w5cw==DnAcw5zo6Ld31x2C' },
         contentType: 'application/json',
-        success: function (data, status) {
-            console.log(data);
+        success: function (quote, status) {
+            $(".quoteText-wrapper .quoteText").text(quote[0].quote);
+            $(".quote .quoteAuthor").text("- " + quote[0].author)
         },
         error: function ajaxError(jqXHR) {
             console.error('Error: ', jqXHR.responseText);
@@ -36,8 +37,7 @@ export default function Result({ ele, setEl }) {
 
     React.useEffect(() => {
         if (!ele) {
-            $(".quoteText-wrapper .quoteText").text(quote[0].quote);
-            $(".quote .quoteAuthor").text("- " + quote[0].author)
+            getQuote();
         }
     }, []);
 
