@@ -34,7 +34,7 @@ export default function NavBar({inRegister,inSignin}) {
                             <Nav className="justify-content-end flex-grow-1 pe-3">
                             <Nav.Link href="/board">
                                     <Button  variant="light" className="board btnNav">
-                                        <i className="fa-solid fa-star star" ></i> Leaderboard
+                                        <i className="fa-solid fa-star star" ></i> Ranking
                                     </Button>
                                 </Nav.Link>
                                 <Nav.Link href="/register" disabled={inRegister}>
