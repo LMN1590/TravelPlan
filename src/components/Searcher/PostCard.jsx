@@ -15,7 +15,7 @@ export default function PostCard({ el }) {
                 </div>
                 <div className="post-src-info">
                     <div className="post-src-title">
-                        <a className="post-ref" href={el.source_info.link}>{el.source_info.name}</a>
+                        <a className="post-ref" href={el.link}>{el.source_info.name}</a>
                     </div>
                     <div className="post-src-link">
                         {el.diplayed_link}

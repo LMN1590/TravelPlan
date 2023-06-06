@@ -1,0 +1,1423 @@
+{
+  "search_metadata": {
+    "id": "6451084fce87f8218552a329",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d104529ac105ef0e/6451084fce87f8218552a329.json",
+    "created_at": "2023-05-02 12:55:43 UTC",
+    "processed_at": "2023-05-02 12:55:43 UTC",
+    "google_url": "https://www.google.com/search?q=prague+castle&oq=prague+castle&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d104529ac105ef0e/6451084fce87f8218552a329.html",
+    "total_time_taken": 2.4
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "prague castle",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "prague castle",
+    "total_results": 33200000,
+    "time_taken_displayed": 0.7,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "Images",
+        "link": "https://www.google.com/search?q=prague+castle&tbm=isch&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ0pQJegQICBAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=prague+castle"
+      },
+      {
+        "position": 2,
+        "title": "Maps",
+        "link": "https://maps.google.com/maps?output=search&q=prague+castle&entry=mc&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ0pQJegQIBxAB"
+      },
+      {
+        "position": 3,
+        "title": "Videos",
+        "link": "https://www.google.com/search?q=prague+castle&tbm=vid&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ0pQJegQIBhAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=prague+castle"
+      },
+      {
+        "position": 4,
+        "title": "News",
+        "link": "https://www.google.com/search?q=prague+castle&tbm=nws&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ0pQJegQIBRAB",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&tbm=nws"
+      },
+      {
+        "position": 5,
+        "title": "Tickets",
+        "link": "https://www.google.com/search?q=Prague+Castle+tickets&uds=iw2AChoKB3RpY2tldHMSDXByYWd1ZSBjYXN0bGUwAgM&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxKsJegUIyAEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Prague+Castle+tickets"
+      },
+      {
+        "position": 6,
+        "title": "Name",
+        "link": "https://www.google.com/search?q=Prague+Castle+name&uds=CwyAChcKBG5hbWUSDXByYWd1ZSBjYXN0bGUwAgM&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxKsJegUIzAEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Prague+Castle+name"
+      },
+      {
+        "position": 7,
+        "title": "Shopping",
+        "link": "https://www.google.com/search?q=prague+castle&tbm=shop&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ0pQJegUIyQEQAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=us&google_domain=google.com&hl=en&q=prague+castle"
+      },
+      {
+        "position": 8,
+        "title": "Inside",
+        "link": "https://www.google.com/search?q=Prague+Castle+inside&uds=Cw2AChkKBmluc2lkZRINcHJhZ3VlIGNhc3RsZTACAw&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxKsJegUIygEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Prague+Castle+inside"
+      },
+      {
+        "position": 9,
+        "title": "Opening hours",
+        "link": "https://www.google.com/search?q=Prague+Castle+opening+hours&uds=ixCACiAKDW9wZW5pbmcgaG91cnMSDXByYWd1ZSBjYXN0bGUwAgM&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxKsJegUIywEQAQ&ictx=0",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Prague+Castle+opening+hours"
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Prague Castle",
+    "type": "Castle in Prague, Czechia",
+    "kgmid": "/m/031mwx",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/031mwx&hl=en-US&hl=Prague Castle",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F031mwx&q=prague+castle",
+    "place_id": "ChIJw7ckbB6VC0cRnyUSr4g8zyo",
+    "website": "https://www.hrad.cz/",
+    "directions": "https://www.google.com/maps/dir//prague+castle/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x470b951e6c24b7c3:0x2acf3c88af12259f?sa=X",
+    "description": "Prague Castle is a castle complex in Prague 1 within Prague, Czech Republic, built in the 9th century. It is the official office of the President of the Czech Republic. The castle was a seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia.",
+    "local_map": {
+      "image": "https://www.google.com/maps/vt/data=zdFAvgECgshe5xs3hXUf_QweVYFbx3lOeBMX_Na8wkEi8xzC5z713OS3x2vtKgVtB6XERTKwoHtpwk15FU7PHSX8DZOkIO4zGPMwOhtDZHCH5cy9adyrB0mCZCgJPAY06_ylxUpoa5xC3PmZx23zP-0QHx-mPORoPaEysVhHvzwCYajioIoq0LP_S00_SLo",
+      "link": "https://www.google.com/maps/place/Prague+Castle/@50.0910966,14.4016165,15z/data=!4m2!3m1!1s0x0:0x2acf3c88af12259f?sa=X",
+      "gps_coordinates": {
+        "latitude": 50.0910966,
+        "longitude": 14.4016165,
+        "altitude": 15
+      }
+    },
+    "rating": 4.7,
+    "review_count": 147520,
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Prague_Castle"
+    },
+    "address": "Hradčany, 119 08 Prague 1, Czechia",
+    "address_links": [
+      {
+        "text": "Address",
+        "link": "https://www.google.com/search?q=prague+castle+address&ludocid=3084750827522499999&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ6BN6BQiBARAC"
+      }
+    ],
+    "raw_hours": "Open ⋅ Closes 10 PMTuesday6 AM–10 PMWednesday6 AM–10 PMThursday6 AM–10 PMFriday6 AM–10 PMSaturday6 AM–10 PMSunday6 AM–10 PMMonday(Victory in Europe Day/)6 AM–10 PMHours might differSuggest new hoursUnable to add this file. Please check that it is a valid photo.",
+    "hours": {
+      "tuesday": {
+        "opens": "6 AM",
+        "closes": "10 PM"
+      },
+      "wednesday": {
+        "opens": "6 AM",
+        "closes": "10 PM"
+      },
+      "thursday": {
+        "opens": "6 AM",
+        "closes": "10 PM"
+      },
+      "friday": {
+        "opens": "6 AM",
+        "closes": "10 PM"
+      },
+      "saturday": {
+        "opens": "6 AM",
+        "closes": "10 PM"
+      },
+      "sunday": {
+        "opens": "6 AM",
+        "closes": "10 PM"
+      },
+      "monday_victory_in_europe_day": {
+        "opens": "6 AM",
+        "closes": "10 PMHours might differ"
+      }
+    },
+    "phone": "+420 224 373 368",
+    "phone_links": [
+      {
+        "text": "Phone",
+        "link": "https://www.google.com/search?q=prague+castle+phone&ludocid=3084750827522499999&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ6BN6BAh3EAI"
+      }
+    ],
+    "construction_started": "870",
+    "construction_started_links": [
+      {
+        "text": "Construction started",
+        "link": "https://www.google.com/search?q=prague+castle+construction+started&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ6BMoAHoFCJQBEAI"
+      }
+    ],
+    "architect_s": "Matthias of Arras, Peter Parler",
+    "architect_s_links": [
+      {
+        "text": "Architect(s)",
+        "link": "https://www.google.com/search?q=prague+castle+architects&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ6BMoAHoFCIUBEAI"
+      },
+      {
+        "text": "Matthias of Arras",
+        "link": "https://www.google.com/search?q=Matthias+of+Arras&stick=H4sIAAAAAAAAAONgVuLUz9U3MDMvrEpfxCrom1hSkpGZWKyQn6bgWFSUWAwAdqhA5yEAAAA&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQmxMoAXoFCIUBEAM"
+      },
+      {
+        "text": "Peter Parler",
+        "link": "https://www.google.com/search?q=Peter+Parler&stick=H4sIAAAAAAAAAONgVuLUz9U3MDOvKixaxMoTkFqSWqQQkFiUk1oEAMx4wm4cAAAA&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQmxMoAnoFCIUBEAQ"
+      }
+    ],
+    "architectural_style": "Baroque, Mannerism",
+    "architectural_style_links": [
+      {
+        "text": "Architectural style",
+        "link": "https://www.google.com/search?q=prague+castle+architectural+style&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ6BMoAHoFCIgBEAI"
+      },
+      {
+        "text": "Mannerism",
+        "link": "https://www.google.com/search?q=Mannerism&stick=H4sIAAAAAAAAAONgVuLQz9U3MDWwNF3EyumbmJeXWpRZnAsAMTu8VxgAAAA&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQmxMoAXoFCIgBEAM"
+      }
+    ],
+    "current_tenants": "Petr Pavel; (2023–present)",
+    "current_tenants_links": [
+      {
+        "text": "Current tenants",
+        "link": "https://www.google.com/search?q=prague+castle+current+tenants&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ6BMoAHoFCI4BEAI"
+      },
+      {
+        "text": "Petr Pavel",
+        "link": "https://www.google.com/search?q=Petr+Pavel&stick=H4sIAAAAAAAAAONgVuLWz9U3MDQwSDLNrlrEyhWQWlKkEJBYlpoDAIqRi6AcAAAA&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQmxMoAXoFCI4BEAM"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Known for",
+        "subtitle": "What Is The Prague Castle Known For",
+        "title": "History of Prague Castle",
+        "link": "https://www.hrad.cz/en/prague-castle-for-visitors/other/history-of-prague-castle-10340#:~:text=Today%20Prague%20Castle%2C%20besides%20being,art%20treasures%20and%20historical%20documents.",
+        "displayed_link": "https://www.hrad.cz › prague-castle-for-visitors › other",
+        "snippet": "Today Prague Castle, besides being the seat of the head of state, is also an important cultural and historical monument. The Crown Jewels are kept at Prague Castle, as are the relics of Bohemian kings, precious Christian relics, art treasures and historical documents.",
+        "snippet_highlighted_words": [
+          "the seat of the head of state"
+        ],
+        "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/aba0b7573ebf9d46a4e21c28be33d81cd71a37918e710248afb287a884e119f7cc6ff9d8a33a8ead.png",
+        "search_link": "https://www.google.com/search?q=what+is+the+prague+castle+known+for&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQBA",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+the+prague+castle+known+for"
+      },
+      {
+        "text": "Fun facts",
+        "subtitle": "Fun Facts About The Prague Castle",
+        "title": "Prague Castle - History and Fun Facts",
+        "link": "https://www.tours-prague.eu/prague-castle.phtml",
+        "displayed_link": "https://www.tours-prague.eu › prague-castle",
+        "snippet": "Fun facts about Prague Castle",
+        "snippet_highlighted_words": [
+          "Fun facts about Prague Castle"
+        ],
+        "list": [
+          "Prague Castle has been the seat of the Holy Roman Emperor twice: during the reign of Charles IV and Rudolf II.",
+          "In 1541, a destructive fire reached the Prague Castle and completely destroyed thousands of law records stored in the Old Royal Palace."
+        ],
+        "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/aba0b7573ebf9d46a4e21c28be33d81cd71a37918e7102488b5594ecd79d10bcab50b7a7158614f1.png",
+        "search_link": "https://www.google.com/search?q=fun+facts+about+the+prague+castle&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQCA",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=fun+facts+about+the+prague+castle"
+      },
+      {
+        "text": "Entrance fee",
+        "subtitle": "How Much Does It Cost To Get Into Prague Castle",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvyvIUgeXF395XBzct0P9v8tXicD-8f7IYaiyXRNBok0&s",
+        "title": "250 CZK for adults",
+        "link": "https://www.roadaffair.com/buy-tickets-to-prague-castle/#:~:text=Full%20admission%20to%20Prague%20Castle,and%20up%20to%20five%20children.",
+        "displayed_link": "https://www.roadaffair.com › buy-tickets-to-prague-castle",
+        "date": "Nov 14, 2022",
+        "snippet": "Full admission to Prague Castle costs 250 CZK for adults and 125 CZK for those eligible for concession tickets; youths aged 6 to 16, students aged 26 or under, and seniors over 65 are entitled to the discounted price. Family tickets are also available for 500 CZK and cover two adults and up to five children.",
+        "snippet_highlighted_words": [
+          "250 CZK for adults and 125 CZK for those eligible for concession tickets"
+        ],
+        "answer": "250 CZK for adults",
+        "search_link": "https://www.google.com/search?q=how+much+does+it+cost+to+get+into+prague+castle&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQDg",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=how+much+does+it+cost+to+get+into+prague+castle"
+      },
+      {
+        "text": "Famous",
+        "subtitle": "Famous Castle In Prague",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14dcwDRFiMeYSAmVnNkawkbA6RpY8gI2eql7AmK_PMFk&s",
+        "title": "Karlstejn",
+        "link": "https://www.prague-stay.com/lifestyle/category/92-czech-republic-attractions/93-famous-czech-castles-chateaux-and-villas#:~:text=Karlstejn,Gothic%20fortress%2C%20founded%20in%201348.",
+        "displayed_link": "https://www.prague-stay.com › lifestyle › category › 93-...",
+        "snippet": "Karlstejn. Located close to Prague is the most famous Czech castle, Karlstejn. Czech King and Roman Emperor Charles IV to house and protect the Royal Coronation Jewels and his collection of holy relics built this magnificent high Gothic fortress, founded in 1348.",
+        "snippet_highlighted_words": [
+          "Karlstejn"
+        ],
+        "answer": "Karlstejn",
+        "search_link": "https://www.google.com/search?q=famous+castle+in+prague&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQFA",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=famous+castle+in+prague"
+      },
+      {
+        "text": "Location",
+        "subtitle": "Where Is Prague Castle Located",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQumg8HTHJOAxdZILTGt9JJwDWypuY8yjQIQV_jnysH5Yk&s",
+        "title": "Getting To Prague Castle | Location, Directions, Maps, FAQs & more",
+        "link": "https://www.praguecastletickets.com/prague-castle-location-directions-getting-there/#:~:text=The%20Prague%20Castle%20is%20located,119%2008%20Prague%201%2C%20Czechia.",
+        "displayed_link": "https://www.praguecastletickets.com › prague-castle-locat...",
+        "snippet": "The Prague Castle is located in Hradčany, 119 08 Prague 1, Czechia.",
+        "snippet_highlighted_words": [
+          "Hradčany, 119 08 Prague 1, Czechia"
+        ],
+        "search_link": "https://www.google.com/search?q=where+is+prague+castle+located&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQGw",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=where+is+prague+castle+located"
+      },
+      {
+        "text": "Why to visit",
+        "subtitle": "Why Do People Visit The Prague Castle",
+        "title": "Visiting Prague Castle: Everything you need to know (2023)",
+        "link": "https://www.timetravelturtle.com/prague-castle-st-vitus-cathedral-czech-republic/#:~:text=Why%20is%20Prague%20Castle%20famous,of%20the%20Archbishop%20of%20Prague.",
+        "displayed_link": "https://www.timetravelturtle.com › prague-castle-st-vitus-...",
+        "date": "Apr 10, 2023",
+        "snippet": "Why is Prague Castle famous? Prague Castle is one of the most significant sites in the Czech Republic, the seat of the head of state for centuries, including for the ruler of the Holy Roman Empire. The complex is also the site of St Vitus Cathedral, the seat of the Archbishop of Prague.",
+        "snippet_highlighted_words": [
+          "one of the most significant sites in the Czech Republic, the seat of the head of state for centuries, including for the ruler of the Holy Roman Empire"
+        ],
+        "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/aba0b7573ebf9d46a4e21c28be33d81cd71a37918e7102484a15c601955b08fd51454f9d702fbbba.png",
+        "search_link": "https://www.google.com/search?q=why+do+people+visit+the+prague+castle&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQHw",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=why+do+people+visit+the+prague+castle"
+      },
+      {
+        "text": "Residents",
+        "subtitle": "Who Lived In Prague Castle",
+        "title": "Prague Castle - Wikipedia",
+        "link": "https://en.m.wikipedia.org/wiki/Prague_Castle#:~:text=The%20last%20major%20rebuilding%20of,made%20Prague%20Castle%20his%20home.",
+        "displayed_link": "https://en.m.wikipedia.org › wiki › Prague_Castle",
+        "snippet": "The last major rebuilding of the castle was carried out by Empress Maria Theresa in the second half of the 18th century. Following the abdication of Ferdinand I, in 1848, and the succession of his nephew, Franz Joseph, to the throne, the former emperor, Ferdinand I, made Prague Castle his home.",
+        "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/aba0b7573ebf9d46a4e21c28be33d81cd71a37918e710248b0d7f38ca5e59966767324e7107608ff.png",
+        "search_link": "https://www.google.com/search?q=who+lived+in+prague+castle&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQIw",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=who+lived+in+prague+castle"
+      },
+      {
+        "text": "Contents",
+        "subtitle": "What Is In The Prague Castle",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYbtlPxFprazGtoo-lotGTga0fyCw7hYhG8QIboI1t_E&s",
+        "title": "Inisde Prague Castle | Palaces, Churches, FAQs & more",
+        "link": "https://www.praguecastletickets.com/inside-prague-castle/#:~:text=What%20is%20inside%20Prague%20Castle,%2C%20halls%2C%20courtyards%2C%20gardens.",
+        "displayed_link": "https://www.praguecastletickets.com › inside-prague-castle",
+        "snippet": "What is inside Prague Castle? A. Prague Castle is a castle complex occupying an area of nearly 70,000 square meters. The castle complex includes palaces, churches, chapels, towers, fortifications, offices, halls, courtyards, gardens.",
+        "snippet_highlighted_words": [
+          "palaces, churches, chapels, towers, fortifications, offices, halls, courtyards, gardens"
+        ],
+        "search_link": "https://www.google.com/search?q=what+is+in+the+prague+castle&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQrooIegUImQEQKQ",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+in+the+prague+castle"
+      }
+    ],
+    "popular_times": {
+      "live": {
+        "busyness_score": 0
+      },
+      "graph_results": {
+        "monday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 11
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 23
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 38
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 52
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 59
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 17
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 9
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ],
+        "tuesday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 5
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 13
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 54
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 58
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 49
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 39
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 19
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 11
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 6
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 3
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ],
+        "wednesday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 12
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 63
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 40
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 28
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not busy",
+            "busyness_score": 18
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 11
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 6
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 3
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ],
+        "thursday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 6
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 15
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 29
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 45
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 60
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 68
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 61
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 50
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 9
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not busy",
+            "busyness_score": 2
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ],
+        "friday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 11
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 25
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 41
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 57
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 65
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 55
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 42
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 30
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 20
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 12
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 7
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not busy",
+            "busyness_score": 3
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ],
+        "saturday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 26
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 55
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 85
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 100
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 96
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually as busy as it gets",
+            "busyness_score": 83
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 69
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 53
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 35
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 19
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 8
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 4
+          },
+          {
+            "time": "9 PM",
+            "info": "Usually not busy",
+            "busyness_score": 2
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ],
+        "sunday": [
+          {
+            "time": "5 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "6 AM",
+            "busyness_score": 0
+          },
+          {
+            "time": "7 AM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "8 AM",
+            "info": "Usually not busy",
+            "busyness_score": 5
+          },
+          {
+            "time": "9 AM",
+            "info": "Usually not busy",
+            "busyness_score": 16
+          },
+          {
+            "time": "10 AM",
+            "info": "Usually not too busy",
+            "busyness_score": 37
+          },
+          {
+            "time": "11 AM",
+            "info": "Usually a little busy",
+            "busyness_score": 62
+          },
+          {
+            "time": "12 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 77
+          },
+          {
+            "time": "1 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 75
+          },
+          {
+            "time": "2 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 64
+          },
+          {
+            "time": "3 PM",
+            "info": "Usually a little busy",
+            "busyness_score": 51
+          },
+          {
+            "time": "4 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 36
+          },
+          {
+            "time": "5 PM",
+            "info": "Usually not too busy",
+            "busyness_score": 22
+          },
+          {
+            "time": "6 PM",
+            "info": "Usually not busy",
+            "busyness_score": 10
+          },
+          {
+            "time": "7 PM",
+            "info": "Usually not busy",
+            "busyness_score": 3
+          },
+          {
+            "time": "8 PM",
+            "info": "Usually not busy",
+            "busyness_score": 1
+          },
+          {
+            "time": "9 PM",
+            "busyness_score": 0
+          },
+          {
+            "time": "10 PM",
+            "busyness_score": 0
+          }
+        ]
+      }
+    },
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/hradofficial/",
+        "image": "https://ssl.gstatic.com/kpui/social/instagram_32x32.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "St. Vitus Cathedral",
+        "link": "https://www.google.com/search?q=St.+Vitus+Cathedral&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2GCzjpiongmJ5tHKZqh_SadADzzA5zyuEWZexHL2_Sj412It804OSTLEohGbIdrarvSdwfPgIWPWg7Y_OMNiD9b7gGhRfVcUIKB9f-2KqYZWM2YB1jvAcM1xLc3BtHB8WBR3FcTA-QdR5MGPIiEfAOfg2K3Pk304oaMBdgnwwl-YXPB0fmBvxdxGBxS06WZlOS2igWOo8yuy5ABdOR6CKSjHFbSw3hCxP88W3CLEa96DLNoZ5TmUrSEqilQgiDw_41TGFrE%3D&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxA16BQiAARAF",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=St.+Vitus+Cathedral&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2GCzjpiongmJ5tHKZqh_SadADzzA5zyuEWZexHL2_Sj412It804OSTLEohGbIdrarvSdwfPgIWPWg7Y_OMNiD9b7gGhRfVcUIKB9f-2KqYZWM2YB1jvAcM1xLc3BtHB8WBR3FcTA-QdR5MGPIiEfAOfg2K3Pk304oaMBdgnwwl-YXPB0fmBvxdxGBxS06WZlOS2igWOo8yuy5ABdOR6CKSjHFbSw3hCxP88W3CLEa96DLNoZ5TmUrSEqilQgiDw_41TGFrE%3D",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPfo9XGUj_s4jutKzafEqXnN1ZlXXhwf2MCgqvf=w96-h72-k-no"
+      },
+      {
+        "name": "Charles Bridge",
+        "link": "https://www.google.com/search?q=Charles+Bridge&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2PJc-4Glt2_OA5JT0iUGsCweP50gORw5kCOAlsntALYlQ1kBZFr8FH6SDUSoavvrFX_RGoY-VwDNi6tD8tVXXK3vkmxKm4Zv1eZf_lIhh1p2dQFwqqQpUyyFSAb0qa3y69Eg9aavNxqbN-lR2diSf5EoWPPCb8gAPVlEvH96_SrRiymr2WJh_H6aqkw-4BvJRigInlEUfmyRViYDaVhG7AkVvv49Gm_BhZvK4L3uUVJoOebAcxjPVH0v9JrOXLSvZHKNNWw%3D&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxA16BQiAARAH",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Charles+Bridge&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2PJc-4Glt2_OA5JT0iUGsCweP50gORw5kCOAlsntALYlQ1kBZFr8FH6SDUSoavvrFX_RGoY-VwDNi6tD8tVXXK3vkmxKm4Zv1eZf_lIhh1p2dQFwqqQpUyyFSAb0qa3y69Eg9aavNxqbN-lR2diSf5EoWPPCb8gAPVlEvH96_SrRiymr2WJh_H6aqkw-4BvJRigInlEUfmyRViYDaVhG7AkVvv49Gm_BhZvK4L3uUVJoOebAcxjPVH0v9JrOXLSvZHKNNWw%3D",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMXDv_ywulLRMXt5LTwCJukvukdw1lhwP_OyiW7=w128-h72-k-no"
+      },
+      {
+        "name": "Prague Astronomical Clock",
+        "link": "https://www.google.com/search?q=Prague+Astronomical+Clock&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2L3Scjx69fGyslMOE4NaplZWr0RJUOlL2NtI0Jm3n4DPRUjqvXEusV0xpKahipXiLRT6IpjPy4AxqyLW7yxIWPoQx0t2BCf4CxjWXDhYFYa8xHV2G4aFNUahGmYLcYhQFGeGuPlO4RT7MfE-TCienI_2SeuS6v8Vb3HkSzG5jw4TW9eOUjUVIDnIF-hn2yC8DqwFgatbA0g58O_bDIRJyPQtnqBu2e1uyeZuoEat3WI17A6_L51LBxY2hCFaZj4sm5j7DGM_K49RzjIv3E49Qwxn78YP&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxA16BQiAARAJ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Prague+Astronomical+Clock&si=AMnBZoEofOODruSEFWFjdccePwMH96ZlZt3bOiKSR9t4pqlu2L3Scjx69fGyslMOE4NaplZWr0RJUOlL2NtI0Jm3n4DPRUjqvXEusV0xpKahipXiLRT6IpjPy4AxqyLW7yxIWPoQx0t2BCf4CxjWXDhYFYa8xHV2G4aFNUahGmYLcYhQFGeGuPlO4RT7MfE-TCienI_2SeuS6v8Vb3HkSzG5jw4TW9eOUjUVIDnIF-hn2yC8DqwFgatbA0g58O_bDIRJyPQtnqBu2e1uyeZuoEat3WI17A6_L51LBxY2hCFaZj4sm5j7DGM_K49RzjIv3E49Qwxn78YP",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOTw516TRvsrPjvH4N6CAwLiYC77L7Fi_-7ndKY=w72-h95-k-no"
+      },
+      {
+        "name": "Golden Lane",
+        "link": "https://www.google.com/search?q=Golden+Lane&si=AMnBZoG3cRyxvViEiVWeqgrn-CuWcnxp6_6_G7EH225wAKYHQlItEuXjQEA0u2zQoQUmH9tzdwfAAe3IU8mfhL1Lb5W-tPCmVmOtj5YaiK6GnP--363TMGhuUWw_DLFWyGiX_cVjQ-YyBc48lyuP_su7CdfqvTfzx4Fa3fsW1XcratDOHITEN13Wm6WAOIHdQJJPfPOsqkAFHw90BTtXBlIAG_WqbAQZFIEq8MaTPE6fthVRQjgJoSTdrK-ChWJHZ7-Iic-IsrUBopQDz3hfyOnjcyIhlx7b--cNJZqSjm9R4HVoTSWE2uc%3D&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQxA16BQiAARAL",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Golden+Lane&si=AMnBZoG3cRyxvViEiVWeqgrn-CuWcnxp6_6_G7EH225wAKYHQlItEuXjQEA0u2zQoQUmH9tzdwfAAe3IU8mfhL1Lb5W-tPCmVmOtj5YaiK6GnP--363TMGhuUWw_DLFWyGiX_cVjQ-YyBc48lyuP_su7CdfqvTfzx4Fa3fsW1XcratDOHITEN13Wm6WAOIHdQJJPfPOsqkAFHw90BTtXBlIAG_WqbAQZFIEq8MaTPE6fthVRQjgJoSTdrK-ChWJHZ7-Iic-IsrUBopQDz3hfyOnjcyIhlx7b--cNJZqSjm9R4HVoTSWE2uc%3D",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu96134DdqO-eY6cIVD1BTuRkXz-hq-B7N-G8HsQwn2Ff91lHA0UexahREW1f1pKHEROE"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?q=Prague+Castle&stick=H4sIAAAAAAAAAONgFuLUz9U3MDbMLa9QQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HyBhQlppemKjgnFpfkpO5gZQQAzUHVgD4AAAA&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQMSgAegUIgAEQAQ",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MDbMLa9QQjC1BIMzU1LLEyuL_VIrSoJLUguKF7HyBhQlppemKjgnFpfkpO5gZQQAzUHVgD4AAAA"
+  },
+  "related_questions": [
+    {
+      "question": "Why is Prague Castle so famous?",
+      "snippet": "Why Is Prague Castle So Famous? Prague Castle is a historical building complex, founded in 880 as a seat of power for the Bohemian Kings. Even today, it is still used as the official seat of the president of the Czech Republic.",
+      "title": "About Prague Castle | History, Facts, FAQ & more",
+      "link": "https://www.praguecastletickets.com/about-prague-castle/",
+      "displayed_link": "https://www.praguecastletickets.com › about-prague-c...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUbjY6Xaa7dv23AzFUYTGdHO3hd7lVNgKTqAF_P3coZg&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IldoeSBpcyBQcmFndWUgQ2FzdGxlIHNvIGZhbW91cz8iLCJsayI6IkdoNTNhSGtnYVhNZ2NISmhaM1ZsSUdOaGMzUnNaU0J6YnlCbVlXMXZkWE0iLCJicyI6ImMtTlM0WklQejZoVXlDeFdDQ2hLVEM5TlZYQk9MQzdKU1ZVb3psZElTOHpOTHkyMmwxaFl6V1hHWmVpSnJxSWtJMVVoSjdFb1BiVzRSQ0VaSXBTWkJ4WXR6eV9LU2JHWE9LdkJKYzhsaGFFUEtGdVNvWkJaWWlfeE9JcExpVXMyUENPeEJHUl9abDV4WmtvcXFtSjdpZmN1QW93QSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IldoeSBpcyBQcmFndWUgQ2FzdGxlIHNvIGZhbW91cz8iLCJsayI6IkdoNTNhSGtnYVhNZ2NISmhaM1ZsSUdOaGMzUnNaU0J6YnlCbVlXMXZkWE0iLCJicyI6ImMtTlM0WklQejZoVXlDeFdDQ2hLVEM5TlZYQk9MQzdKU1ZVb3psZElTOHpOTHkyMmwxaFl6V1hHWmVpSnJxSWtJMVVoSjdFb1BiVzRSQ0VaSXBTWkJ4WXR6eV9LU2JHWE9LdkJKYzhsaGFFUEtGdVNvWkJaWWlfeE9JcExpVXMyUENPeEJHUl9abDV4WmtvcXFtSjdpZmN1QW93QSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Is Prague Castle the largest castle in the world?",
+      "snippet": "Prague Castle was most likely founded in around 880 by Prince Bořivoj of the Premyslid Dynasty (Přemyslovci). According to the Guinness Book of World Records, Prague Castle is the largest coherent castle complex in the world, with an area of almost 70,000 m².",
+      "title": "Prague Castle for visitors",
+      "link": "https://www.hrad.cz/en/prague-castle-for-visitors",
+      "displayed_link": "https://www.hrad.cz › prague-castle-for-visitors",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZlgz7wDmD0qDkg697kz6an0rNbFLRTy6uo3H50bmEQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IklzIFByYWd1ZSBDYXN0bGUgdGhlIGxhcmdlc3QgY2FzdGxlIGluIHRoZSB3b3JsZD8iLCJsayI6ImM1TXl5Q3hXS0NoS1RDOU5WVWhPTEM3SlNWVW95VWhWeUVrc1NrOHRMb0VKWmVhQlJjdnppM0pTQUEiLCJicyI6ImMtTlM0WklQejZoVXlDeFdDQ2hLVEM5TlZYQk9MQzdKU1ZVb3psZElTOHpOTHkyMmwxaFl6V1hHWmVpSnJxSWtJMVVoSjdFb1BiVzRSQ0VaSXBTWkJ4WXR6eV9LU2JHWE9LdkJKYzhsaGFFUEtGdVNvWkJaWWlfeE9JcExpVXMyUENPeEJHUl9abDV4WmtvcXFtSjdpZmN1QW93QSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IklzIFByYWd1ZSBDYXN0bGUgdGhlIGxhcmdlc3QgY2FzdGxlIGluIHRoZSB3b3JsZD8iLCJsayI6ImM1TXl5Q3hXS0NoS1RDOU5WVWhPTEM3SlNWVW95VWhWeUVrc1NrOHRMb0VKWmVhQlJjdnppM0pTQUEiLCJicyI6ImMtTlM0WklQejZoVXlDeFdDQ2hLVEM5TlZYQk9MQzdKU1ZVb3psZElTOHpOTHkyMmwxaFl6V1hHWmVpSnJxSWtJMVVoSjdFb1BiVzRSQ0VaSXBTWkJ4WXR6eV9LU2JHWE9LdkJKYzhsaGFFUEtGdVNvWkJaWWlfeE9JcExpVXMyUENPeEJHUl9abDV4WmtvcXFtSjdpZmN1QW93QSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "Is Prague Castle worth it?",
+      "snippet": "Why is Prague Castle famous? Prague Castle is one of the most significant sites in the Czech Republic, the seat of the head of state for centuries, including for the ruler of the Holy Roman Empire. The complex is also the site of St Vitus Cathedral, the seat of the Archbishop of Prague.",
+      "title": "Visiting Prague Castle: Everything you need to know (2023)",
+      "date": "Apr 10, 2023",
+      "link": "https://www.timetravelturtle.com/prague-castle-st-vitus-cathedral-czech-republic/",
+      "displayed_link": "https://www.timetravelturtle.com › prague-castle-st-vitus-...",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/5ac8c1aead17a29ffd20ba23e99f7485fd352151195589e821e1f5c4426a843d.png",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IklzIFByYWd1ZSBDYXN0bGUgd29ydGggaXQ/IiwibGsiOiJHaGxwY3lCd2NtRm5kV1VnWTJGemRHeGxJSGR2Y25Sb0lHbDAiLCJicyI6ImMtTlM0WklQejZoVXlDeFdDQ2hLVEM5TlZYQk9MQzdKU1ZVb3psZElTOHpOTHkyMmwxaFl6V1hHWmVpSnJxSWtJMVVoSjdFb1BiVzRSQ0VaSXBTWkJ4WXR6eV9LU2JHWE9LdkJKYzhsaGFFUEtGdVNvWkJaWWlfeE9JcExpVXMyUENPeEJHUl9abDV4WmtvcXFtSjdpZmN1QW93QSIsImlkIjoiZmNfMSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IklzIFByYWd1ZSBDYXN0bGUgd29ydGggaXQ%2FIiwibGsiOiJHaGxwY3lCd2NtRm5kV1VnWTJGemRHeGxJSGR2Y25Sb0lHbDAiLCJicyI6ImMtTlM0WklQejZoVXlDeFdDQ2hLVEM5TlZYQk9MQzdKU1ZVb3psZElTOHpOTHkyMmwxaFl6V1hHWmVpSnJxSWtJMVVoSjdFb1BiVzRSQ0VaSXBTWkJ4WXR6eV9LU2JHWE9LdkJKYzhsaGFFUEtGdVNvWkJaWWlfeE9JcExpVXMyUENPeEJHUl9abDV4WmtvcXFtSjdpZmN1QW93QSIsImlkIjoiZmNfMSJ9"
+    },
+    {
+      "question": "What is inside Prague Castle?",
+      "snippet": "What is inside Prague Castle? A. Prague Castle is a castle complex occupying an area of nearly 70,000 square meters. The castle complex includes palaces, churches, chapels, towers, fortifications, offices, halls, courtyards, gardens.",
+      "title": "Inisde Prague Castle | Palaces, Churches, FAQs & more",
+      "link": "https://www.praguecastletickets.com/inside-prague-castle/",
+      "displayed_link": "https://www.praguecastletickets.com › inside-prague-castle",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8YF0inNjC4y3B9kMleH9EAdo2hnLFEw0fpxrSsoxNQ&s",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgaW5zaWRlIFByYWd1ZSBDYXN0bGU/IiwibGsiOiJHaHgzYUdGMElHbHpJR2x1YzJsa1pTQndjbUZuZFdVZ1kyRnpkR3hsIiwiYnMiOiJjLU5TNFpJUHo2aFV5Q3hXQ0NoS1RDOU5WWEJPTEM3SlNWVW96bGRJUzh6Tkx5MjJsMWhZeldYR1plaUpycUlrSTFVaEo3RW9QYlc0UkNFWklwU1pCeFl0enlfS1NiR1hPS3ZCSmM4bGhhRVBLRnVTb1pCWllpX3hPSXBMaVVzMlBDT3hCR1JfWmw1eFprb3FxbUo3aWZjdUFvd0EiLCJpZCI6ImZjXzEifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJSWE0zYWs1U1JIQkZibGRITFVsM05UZDJVR2RRWjJadWVVTjBSM2xyVTJzMVVYUktVR1JsYkdGcmJHUkNURzVhYkhBeGMyZDFTMjlHYkhkTGNGQjJNRGt0UVRscU4wdGlNM1pSRWhkVlFXaFNXa3d0YWt3MWNrOXJVRWxRTmprMlRITkJSUm9pUVU4dE1ISnNOMUpHYUZSSmMwdDJRMlptZUZWUWMydExVSGxSV0hWWVFUazJadyIsImZjdiI6IjMiLCJlaSI6IlVBaFJaTC1qTDVyT2tQSVA2OTZMc0FFIiwicWMiOiJDZzF3Y21GbmRXVWdZMkZ6ZEd4bEVBQjlJbDhyUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgaW5zaWRlIFByYWd1ZSBDYXN0bGU%2FIiwibGsiOiJHaHgzYUdGMElHbHpJR2x1YzJsa1pTQndjbUZuZFdVZ1kyRnpkR3hsIiwiYnMiOiJjLU5TNFpJUHo2aFV5Q3hXQ0NoS1RDOU5WWEJPTEM3SlNWVW96bGRJUzh6Tkx5MjJsMWhZeldYR1plaUpycUlrSTFVaEo3RW9QYlc0UkNFWklwU1pCeFl0enlfS1NiR1hPS3ZCSmM4bGhhRVBLRnVTb1pCWllpX3hPSXBMaVVzMlBDT3hCR1JfWmw1eFprb3FxbUo3aWZjdUFvd0EiLCJpZCI6ImZjXzEifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Prague Castle for visitors",
+      "link": "https://www.hrad.cz/en/prague-castle-for-visitors",
+      "displayed_link": "https://www.hrad.cz › prague-castle-for-visitors",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a702b0d37a58636ecbac5902033379021b.jpeg",
+      "snippet": "According to the Guinness Book of World Records, Prague Castle is the largest coherent castle complex in the world, with an area of almost 70,000 m². A UNESCO ...",
+      "snippet_highlighted_words": [
+        "Prague Castle"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Tickets",
+            "link": "https://www.hrad.cz/en/prague-castle-for-visitors/tickets"
+          },
+          {
+            "title": "Castle map",
+            "link": "https://www.hrad.cz/en/prague-castle-for-visitors/castle-map"
+          },
+          {
+            "title": "Opening hours",
+            "link": "https://www.hrad.cz/en/prague-castle-for-visitors/opening-hours"
+          },
+          {
+            "title": "Guided tours",
+            "link": "https://www.hrad.cz/en/prague-castle-for-visitors/guided-tours"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Prague Castle is a castle complex in Prague 1 within Prague, Czech Republic, built in the 9th century. It is the official office of the President of the Czech Republic. The castle was a seat of power for kings of Bohemia, Holy Roman emperors, and presidents of Czechoslovakia.",
+          "source_info_link": "https://www.hrad.cz/en/prague-castle-for-visitors",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a70531ddfec929af13c3752f520c5a63c36a7ef7458b4b1fd79710b34c27fda622.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.hrad.cz/en/prague-castle-for-visitors&tbm=ilp&ilps=ADJL0ix1DolqCoEIlLKNhrBnldSHfGjRgQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ix1DolqCoEIlLKNhrBnldSHfGjRgQ&q=About+https%3A%2F%2Fwww.hrad.cz%2Fen%2Fprague-castle-for-visitors",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:64vk_KH-yocJ:https://www.hrad.cz/en/prague-castle-for-visitors&cd=11&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.hrad.cz/en/prague-castle-for-visitors+prague+castle",
+      "source": "hrad.cz"
+    },
+    {
+      "position": 2,
+      "title": "Prague Castle",
+      "link": "https://en.wikipedia.org/wiki/Prague_Castle",
+      "displayed_link": "https://en.wikipedia.org › wiki › Prague_Castle",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7ce1ee1a676f04218045a1c34a0e7aca4.jpeg",
+      "snippet": "According to the Guinness Book of Records, Prague Castle is the largest ancient castle in the world, occupying an area of almost 70,000 square metres (750,000 ...",
+      "snippet_highlighted_words": [
+        "Prague Castle"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Prague Castle skeleton",
+            "link": "https://en.wikipedia.org/wiki/Prague_Castle_skeleton"
+          },
+          {
+            "title": "Prague 1",
+            "link": "https://en.wikipedia.org/wiki/Prague_1"
+          },
+          {
+            "title": "St. George's Basilica, Prague",
+            "link": "https://en.wikipedia.org/wiki/St._George%27s_Basilica,_Prague"
+          },
+          {
+            "title": "Vladislav Hall",
+            "link": "https://en.wikipedia.org/wiki/Vladislav_Hall"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system called MediaWiki. Wikipedia is the largest and most-read reference work in history.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Prague_Castle",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7177be5ab194a678e7194ed26b5e86948c024bde869c8a49411e9d0e08c1902d4.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Prague_Castle&tbm=ilp&ilps=ADJL0ixiUEXMHHzh6Ssbjo-NlParhb3woA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0ixiUEXMHHzh6Ssbjo-NlParhb3woA&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPrague_Castle",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qOLNvanPRp0J:https://en.wikipedia.org/wiki/Prague_Castle&cd=23&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Prague_Castle+prague+castle",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 3,
+      "title": "Prague Castle | History, Buildings, & Facts",
+      "link": "https://www.britannica.com/place/Prague-Castle",
+      "displayed_link": "https://www.britannica.com › ... › Historical Places",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a71c04a2854b35e0182e50b6cf2c68c8ad.jpeg",
+      "snippet": "The castle was formerly the seat of the kings of Bohemia and is currently the official residence of the president of the Czech Republic. It lies within the ...",
+      "snippet_highlighted_words": [
+        "castle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "britannica.com was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://www.britannica.com/place/Prague-Castle",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a75968fb34c44d44d7cf6fa08a1a3eafd5f05670f80cab6d4ae2d97e63057ed773.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/place/Prague-Castle&tbm=ilp&ilps=ADJL0iwFVEfYyL-bHGpjhI2FDsfjVqZ22A",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iwFVEfYyL-bHGpjhI2FDsfjVqZ22A&q=About+https%3A%2F%2Fwww.britannica.com%2Fplace%2FPrague-Castle",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CmJjpMKy0AEJ:https://www.britannica.com/place/Prague-Castle&cd=24&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/place/Prague-Castle+prague+castle",
+      "source": "Encyclopedia Britannica"
+    },
+    {
+      "position": 4,
+      "title": "Prague Castle - All You Need to Know BEFORE You Go ...",
+      "link": "https://www.tripadvisor.com/Attraction_Review-g274707-d275235-Reviews-Prague_Castle-Prague_Bohemia.html",
+      "displayed_link": "https://www.tripadvisor.com › ... › Prague Castle",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a739ee1027c4c84bf1db360d46b1bd792a.jpeg",
+      "snippet": "Walking up the hill or stairs to Prague Castle, the historical seat of Czech rulers and the majestic Saint Vitus Cathedral can leave you speechless (and out of ...",
+      "snippet_highlighted_words": [
+        "Prague Castle"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "reviews": 36715
+          },
+          "extensions": [
+            "Rating: 4.5",
+            "‎36,715 reviews"
+          ]
+        },
+        "bottom": {
+          "questions": [
+            "What's the best way to see Prague Castle?",
+            "When is Prague Castle open?"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Tripadvisor, Inc. is an American company that operates online travel agencies, comparison shopping websites, and mobile apps with user-generated content.",
+          "source_info_link": "https://www.tripadvisor.com/Attraction_Review-g274707-d275235-Reviews-Prague_Castle-Prague_Bohemia.html",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a73c77711cbef2e20401d01ef1542d43df1d7c7dd14aba253b95e3cf6a51731d4d.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.tripadvisor.com/Attraction_Review-g274707-d275235-Reviews-Prague_Castle-Prague_Bohemia.html&tbm=ilp&ilps=ADJL0izLexV-XjtafAfkf_ei99OoDJreGA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0izLexV-XjtafAfkf_ei99OoDJreGA&q=About+https%3A%2F%2Fwww.tripadvisor.com%2FAttraction_Review-g274707-d275235-Reviews-Prague_Castle-Prague_Bohemia.html",
+      "cached_page_link": "/search?q=related:https://www.tripadvisor.com/Attraction_Review-g274707-d275235-Reviews-Prague_Castle-Prague_Bohemia.html+prague+castle",
+      "related_questions": [
+        {
+          "question": "What's the best way to see Prague Castle?",
+          "snippet": "According to Tripadvisor travelers, these are the best ways to experience Prague Castle: Skip the Line: Prague Castle Ticket and Introductory Overview (From $20.03)Prague Castle Walking Tour Including Admission Tickets (From $38.94)Prague 3-hour Afternoon Walking Tour including Prague Castle (From $38.94)Best of Prague: City Walking Tour, Boat Cruise, and Typical Czech Lunch (From $83.44)1-Hour Introductory Tour of Prague Castle With Fast-GET Admission Ticket (From $24.48) See all Prague Castle experiences on Tripadvisor",
+          "snippet_links": [
+            {
+              "text": "Skip the Line: Prague Castle Ticket and Introductory Overview",
+              "link": "https://www.tripadvisor.com/AttractionProductReview-g274707-d11458534-Skip_the_Line_Prague_Castle_Ticket_and_Introductory_Overview-Prague_Bohemia.html?mcid=63709"
+            },
+            {
+              "text": "Prague Castle Walking Tour Including Admission Tickets",
+              "link": "https://www.tripadvisor.com/AttractionProductReview-g274707-d11457293-Prague_Castle_Walking_Tour_Including_Admission_Tickets-Prague_Bohemia.html?mcid=63709"
+            },
+            {
+              "text": "Prague 3-hour Afternoon Walking Tour including Prague Castle",
+              "link": "https://www.tripadvisor.com/AttractionProductReview-g274707-d11882926-Prague_3_hour_Afternoon_Walking_Tour_including_Prague_Castle-Prague_Bohemia.html?mcid=63709"
+            },
+            {
+              "text": "Best of Prague: City Walking Tour, Boat Cruise, and Typical Czech Lunch",
+              "link": "https://www.tripadvisor.com/AttractionProductReview-g274707-d11464860-Best_of_Prague_City_Walking_Tour_Boat_Cruise_and_Typical_Czech_Lunch-Prague_Bohemi.html?mcid=63709"
+            },
+            {
+              "text": "1-Hour Introductory Tour of Prague Castle With Fast-GET Admission Ticket",
+              "link": "https://www.tripadvisor.com/AttractionProductReview-g274707-d16797097-1_Hour_Introductory_Tour_of_Prague_Castle_With_Fast_GET_Admission_Ticket-Prague_Bo.html?mcid=63709"
+            },
+            {
+              "text": "See all Prague Castle experiences on Tripadvisor",
+              "link": "https://www.tripadvisor.com/AttractionToursAndTickets-g274707-d275235-Prague_Castle-Prague_Bohemia.html?mcid=63709"
+            }
+          ]
+        },
+        {
+          "question": "When is Prague Castle open?",
+          "snippet": "Prague Castle is open:Sun - Sat 12:00 PM - 12:30 PMBuy tickets in advance on Tripadvisor. If you book with Tripadvisor, you can cancel at least 24 hours before the start date of your tour for a full refund.",
+          "snippet_links": [
+            {
+              "text": "Buy tickets in advance on Tripadvisor",
+              "link": "https://www.tripadvisor.com/AttractionToursAndTickets-g274707-d275235-Prague_Castle-Prague_Bohemia.html?mcid=63709"
+            }
+          ]
+        }
+      ],
+      "source": "TripAdvisor"
+    },
+    {
+      "position": 5,
+      "title": "Prague Castle (Pražský hrad)",
+      "link": "https://www.prague.eu/en/object/places/31/prague-castle-prazsky-hrad",
+      "displayed_link": "https://www.prague.eu › object › places › prague-castl...",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7db2cf946885f321f2ead662ad10a3e68.jpeg",
+      "snippet": "Prague Castle (Pražský hrad) ... The largest castle complex not only in the Czech Republic, but anywhere in the world, forms part of Prague's distinctive skyline.",
+      "snippet_highlighted_words": [
+        "Prague Castle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "prague.eu was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://www.prague.eu/en/object/places/31/prague-castle-prazsky-hrad",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7df84300f4db4b2a0a215159ba0cf9f45b821f32ed39759c2f9efc059dcfbf834.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.prague.eu/en/object/places/31/prague-castle-prazsky-hrad&tbm=ilp&ilps=ADJL0iyzcyhrS11eJwvaY2qN3zK-aRC_rg",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iyzcyhrS11eJwvaY2qN3zK-aRC_rg&q=About+https%3A%2F%2Fwww.prague.eu%2Fen%2Fobject%2Fplaces%2F31%2Fprague-castle-prazsky-hrad",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pYQgdfyPemYJ:https://www.prague.eu/en/object/places/31/prague-castle-prazsky-hrad&cd=26&hl=en&ct=clnk&gl=us",
+      "source": "Prague.eu"
+    },
+    {
+      "position": 6,
+      "title": "About Prague Castle | History, Facts, FAQ & more",
+      "link": "https://www.praguecastletickets.com/about-prague-castle/",
+      "displayed_link": "https://www.praguecastletickets.com › about-prague-c...",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7d082cb3808dd2720571db72d76ad1f19.jpeg",
+      "snippet": "The 110 acres large Prague castle complex is also called Hradčany, a collective name of all the palaces, offices, buildings, churches and gardens that comes ...",
+      "snippet_highlighted_words": [
+        "Prague castle"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "questions": [
+            "What Is Prague Castle?",
+            "Who currently resides at Prague Castle?"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "praguecastletickets.com was first indexed by Google in November 2019",
+          "source_info_link": "https://www.praguecastletickets.com/about-prague-castle/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a75cb142a89a3251c6aea25b5a488ccc6ef1ebf3b977c0c322246ca802944e2492.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.praguecastletickets.com/about-prague-castle/&tbm=ilp&ilps=ADJL0iy3BgFu8f7w3uIR-t8Es0kCytfd_g",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iy3BgFu8f7w3uIR-t8Es0kCytfd_g&q=About+https%3A%2F%2Fwww.praguecastletickets.com%2Fabout-prague-castle%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GzDgiutTUkcJ:https://www.praguecastletickets.com/about-prague-castle/&cd=27&hl=en&ct=clnk&gl=us",
+      "related_questions": [
+        {
+          "question": "What Is Prague Castle?",
+          "snippet": "Prague Castle is a castle complex with its origins dating back to the 9th century, holding several stunning gothic and baroque structures that were built over several hundred years. It is located within the historic center of Prague, a UNESCO World Heritage Site."
+        },
+        {
+          "question": "Who currently resides at Prague Castle?",
+          "snippet": "The president of the Czech Republic currently resides in the Prague Castle and uses it as his official residence ."
+        }
+      ],
+      "source": "praguecastletickets.com",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Prague Castle Tickets – Skip the Lines, Tours | Headout",
+          "link": "https://www.praguecastletickets.com/",
+          "displayed_link": "https://www.praguecastletickets.com",
+          "snippet": "Old Royal Palace. In one of the oldest structures of the Castle Quarter, you will come across buildings and structures designed in the Gothic and Renaissance ...",
+          "snippet_highlighted_words": [
+            "Palace",
+            "Castle"
+          ],
+          "about_this_result": {
+            "source": {
+              "description": "praguecastletickets.com was first indexed by Google in November 2019",
+              "source_info_link": "https://www.praguecastletickets.com/",
+              "security": "secure",
+              "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7d237ef75024dea34daac64ffb6d7fa935e2d6da752f1eae4e36de9f640773be013f1a3ebdb18a5a4a9cba1857707db473404e28b451a5df6.png"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://www.praguecastletickets.com/&tbm=ilp&ilps=ADJL0iyIDJB8MiAtnJjxBTTog3fxxGQI6g",
+          "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iyIDJB8MiAtnJjxBTTog3fxxGQI6g&q=About+https%3A%2F%2Fwww.praguecastletickets.com%2F",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GyVIymTK7k4J:https://www.praguecastletickets.com/&cd=28&hl=en&ct=clnk&gl=us"
+        }
+      ]
+    },
+    {
+      "position": 7,
+      "title": "Prague Castle",
+      "link": "https://www.visitczechrepublic.com/en-US/80ae56e9-15ba-47ff-bc46-a3ccf45aa3bb/place/c-prague-castle",
+      "displayed_link": "https://www.visitczechrepublic.com › en-US › place",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7d77e3d7831254ce635238f5a899cc06d.jpeg",
+      "snippet": "The most famous dominant feature of Prague Castle is the St. Vitus Cathedral. When you enter it, you will find yourself in a place where time has literally ...",
+      "snippet_highlighted_words": [
+        "Prague Castle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "visitczechrepublic.com was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://www.visitczechrepublic.com/en-US/80ae56e9-15ba-47ff-bc46-a3ccf45aa3bb/place/c-prague-castle",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a76edf3d17bc9dc75033fe3f6ef0d1147e1941b5836f5629d560944414ffc6ab81.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.visitczechrepublic.com/en-US/80ae56e9-15ba-47ff-bc46-a3ccf45aa3bb/place/c-prague-castle&tbm=ilp&ilps=ADJL0iz2-2rVK5Ho09RGwx8740yAqgNzMg",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iz2-2rVK5Ho09RGwx8740yAqgNzMg&q=About+https%3A%2F%2Fwww.visitczechrepublic.com%2Fen-US%2F80ae56e9-15ba-47ff-bc46-a3ccf45aa3bb%2Fplace%2Fc-prague-castle",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Ae-Mxx_254oJ:https://www.visitczechrepublic.com/en-US/80ae56e9-15ba-47ff-bc46-a3ccf45aa3bb/place/c-prague-castle&cd=29&hl=en&ct=clnk&gl=us",
+      "source": "Visit Czech Republic"
+    },
+    {
+      "position": 8,
+      "title": "7 Things You Probably Didn't Know About Prague Castle",
+      "link": "https://www.travelandleisure.com/trip-ideas/prague-castle",
+      "displayed_link": "https://www.travelandleisure.com › trip-ideas › prague...",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a749c5e728583bc56cd0483d454a2ea2aa.jpeg",
+      "date": "Nov 20, 2022",
+      "snippet": "The Prague Castle complex is enormous, with an area totaling approximately 753,473 square feet. That makes it the largest ancient castle in the ...",
+      "snippet_highlighted_words": [
+        "Prague Castle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Travel + Leisure is a travel magazine based in New York City, New York. Published 12 times a year, it has 4.8 million readers, according to its corporate media kit.",
+          "source_info_link": "https://www.travelandleisure.com/trip-ideas/prague-castle",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a71873c36e8f65cd71251700fc98cdcb16a9362f07c488c0d703b0b132106a2239.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.travelandleisure.com/trip-ideas/prague-castle&tbm=ilp&ilps=ADJL0iwur2pj0TVzb3_bbtpiajagRMi5pA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iwur2pj0TVzb3_bbtpiajagRMi5pA&q=About+https%3A%2F%2Fwww.travelandleisure.com%2Ftrip-ideas%2Fprague-castle",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:c0-JQ9YXY78J:https://www.travelandleisure.com/trip-ideas/prague-castle&cd=30&hl=en&ct=clnk&gl=us",
+      "source": "Travel + Leisure"
+    },
+    {
+      "position": 9,
+      "title": "Prague Castle, Prague - Book Tickets & Tours",
+      "link": "https://www.getyourguide.com/prague-castle-l2720/",
+      "displayed_link": "https://www.getyourguide.com › prague-castle-l2720",
+      "thumbnail": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7f78828dda1006b3ece8302ae513f1644.jpeg",
+      "snippet": "See the highlights of the castle complex including St. Vitus Cathedral, the Old Royal Palace, St. George's Basilica, and the Golden Lane. The Castle contains an ...",
+      "snippet_highlighted_words": [
+        "castle",
+        "Palace",
+        "Castle"
+      ],
+      "images": [
+        "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7885b076dba8aa6499b5bd647d6ec771c.jpeg",
+        "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7885b076dba8aa64924e8fc0839c4138b.jpeg",
+        "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7885b076dba8aa649cc6c5d701f38f66a.jpeg",
+        "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7885b076dba8aa6498e7add10f09f5130.jpeg"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "GetYourGuide is a Berlin-based online travel agency and online marketplace for tour guides and excursions. It is accessible via website and mobile app for iOS and Android.\nGetYourGuide's sells tours and excursions, activities including cooking classes, and tickets to many tourist attractions.",
+          "source_info_link": "https://www.getyourguide.com/prague-castle-l2720/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/6451084fce87f8218552a329/images/7d6ad3fd6c119e74fa57c9d1e49714a7006e71e4f912ab9ef0f5835c417c4f317c7a3c2d471d2d2a559dfe0a536b0f15.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.getyourguide.com/prague-castle-l2720/&tbm=ilp&ilps=ADJL0iyh2z0AjUdEPMok2LlU1BchsHHyLQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=ADJL0iyh2z0AjUdEPMok2LlU1BchsHHyLQ&q=About+https%3A%2F%2Fwww.getyourguide.com%2Fprague-castle-l2720%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QRa0Hn6-ZOMJ:https://www.getyourguide.com/prague-castle-l2720/&cd=31&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?q=related:https://www.getyourguide.com/prague-castle-l2720/+prague+castle",
+      "source": "GetYourGuide"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "when was prague castle built",
+      "link": "https://www.google.com/search?q=When+was+Prague+Castle+built&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ1QJ6BAhWEAE"
+    },
+    {
+      "query": "is prague castle free",
+      "link": "https://www.google.com/search?q=Is+Prague+Castle+free&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ1QJ6BAhUEAE"
+    },
+    {
+      "query": "old royal palace (prague)",
+      "link": "https://www.google.com/search?q=Old+Royal+Palace+(Prague)&sa=X&ved=2ahUKEwi_i4qp19b-AhUaJ0QIHWvvAhYQ1QJ6BAhSEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=prague+castle&oq=prague+castle&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=prague+castle&oq=prague+castle&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=prague+castle&oq=prague+castle&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=prague+castle&oq=prague+castle&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=prague+castle&oq=prague+castle&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=prague+castle&start=40"
+    }
+  }
+}

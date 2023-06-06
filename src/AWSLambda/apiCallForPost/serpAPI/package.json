@@ -1,0 +1,9 @@
+{
+    "name": "serp-api",
+    "version": "1.0",
+    "sideEffects": false,
+    "type": "module",
+    "files": [
+        "./"
+    ]
+}
