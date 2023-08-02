@@ -3,7 +3,7 @@
 async function callSerpAPI(query){
     const fetch = await import('node-fetch');
     
-    const apiKey="22313043abbf0dbccfcbbb89b0b2b6c1f87e90738308be9d6d3e3dd47f5b6adf";
+    const apiKey="API-Key";
     const engine="google";
     
     const params={
