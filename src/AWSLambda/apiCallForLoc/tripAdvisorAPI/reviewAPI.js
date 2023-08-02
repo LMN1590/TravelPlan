@@ -3,7 +3,7 @@ async function getReview(loc_id){
 
     const params={
         language: 'en',
-        key:'E443C2CE571049F7AAFC784C422CF062'
+        key:'API-Key'
     };
 
     const url= `https://api.content.tripadvisor.com/api/v1/location/${loc_id}/reviews?` 

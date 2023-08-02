@@ -1,7 +1,7 @@
 async function callHereAPI(query,location){
     const fetch = await import('node-fetch');
     
-    const apiKey = "K177Fw63831tLMIveyyOH1-gkTxLlxyEdwyRDmidt2k";
+    const apiKey = "API-Key";
     const limit=3;
 
     const params={

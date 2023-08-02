@@ -16,9 +16,10 @@ export default function Searcher({ele,setEl}) {
     const [loc,setLoc]=React.useState([]);
     const [post,setPost]=React.useState([]);
     
-    const [query,setQuery]=React.useState("");
+    const [query,setQuery]=React.useState({"query": ""});
 
     function search(q){
+        console.log(q);
         setLoc([]);
         setPost([]);
         queryExc(q,setLoc,setPost);
@@ -42,8 +43,13 @@ export default function Searcher({ele,setEl}) {
                         placeholder="Search locations"
                         aria-label="Location"
                         aria-describedby="basic-addon2"
-                        value={query}
-                        onChange={event=>setQuery(event.target.value)}
+                        value={query.query}
+                        onChange={event=>setQuery(prev => {
+                            return {
+                                ...prev,
+                                query: event.target.value
+                            }
+                        })}
                     />
                     <Button variant="secondary" className="searchBtn" onClick={()=>search(query)}>
                         Search

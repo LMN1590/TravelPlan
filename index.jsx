@@ -9,7 +9,7 @@ import Register_Page from "./src/start/Register_Page/Register_Page";
 import Search_Page from "./src/start/Search_Page/Search_Page";
 import Signin_Page from "./src/start/Signin_Page/Signin_Page";
 import Board from "./src/start/Board/Board";
-
+ 
 function App() {
   /*const [navState,setNavState]=React.useState({
     inSignin: false,
